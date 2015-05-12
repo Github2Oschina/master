@@ -103,20 +103,3 @@ else:
     file_tmp.write(str(datetime.datetime.now()))
     file_tmp.write('\r\n')
     file_tmp.close()
-
-
-#file_tmp.close()
-#
-# # <time is="relative-time" datetime="2015-04-14T22:26:18Z" title="Apr 15, 2015, 6:26 AM GMT+8">7 hours ago</time>
-# #将每次修改时间追加写入time.log文件中
-# file_tmp = open('time.log', 'wb+')
-# for b in html.find_all("time",):
-#     file_tmp.write(str(b).join('\r\n'))
-# file_tmp.close()
-#
-#
-# #从fix。log中读取一行出来进行比较
-# file_tmp = open('fix.log', 'rb+')
-# print file_tmp.readline()
-# file_tmp.close()
-# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
