@@ -1,0 +1,3590 @@
+系统无更新2015-04-15 21:17:40.794093系统无更新2015-04-15 21:31:33.903230
+系统更新完毕
+2015-04-16 15:28:51.524209
+
+系统更新完毕
+2015-04-16 15:30:51.667367
+
+系统更新完毕
+2015-04-16 15:43:16.131158
+
+系统无更新2015-04-16 15:45:10.983090
+
+系统无更新2015-04-16 15:49:19.865351
+
+系统更新完毕更新内容：[FIX] point_of_sale: child taxes computation
+
+The box "Tax on children" was ignored in the pos, leading to 100% taxes for these
+taxes (as amount is 1.0 on these taxes).
+
+Add child tax fields when loading the pos to be able to correctly compute
+recusively the tax amount on children.
+
+Courtesy of Jean-Nicolas Brunet
+Fixes #1515, lp:1231574, opw 6221432015-04-16 15:52:02.176218
+
+系统更新完毕更新内容：[FIX] point_of_sale: child taxes computation
+
+The box "Tax on children" was ignored in the pos, leading to 100% taxes for these
+taxes (as amount is 1.0 on these taxes).
+
+Add child tax fields when loading the pos to be able to correctly compute
+recusively the tax amount on children.
+
+Courtesy of Jean-Nicolas Brunet
+Fixes #1515, lp:1231574, opw 6221432015-04-16 15:55:24.099852
+
+系统无更新2015-04-16 16:01:05.311716
+
+系统更新完毕更新内容：[FIX] point_of_sale: child taxes computation
+
+The box "Tax on children" was ignored in the pos, leading to 100% taxes for these
+taxes (as amount is 1.0 on these taxes).
+
+Add child tax fields when loading the pos to be able to correctly compute
+recusively the tax amount on children.
+
+Courtesy of Jean-Nicolas Brunet
+Fixes #1515, lp:1231574, opw 6221432015-04-16 16:11:57.760103
+
+系统无更新2015-04-16 16:30:03.646234
+
+系统无更新2015-04-16 17:01:04.700588
+
+系统无更新2015-04-16 17:30:06.890304
+
+系统无更新2015-04-16 17:34:53.745085
+
+系统无更新2015-04-16 17:35:50.455820
+
+系统更新完毕更新内容：[FIX] point_of_sale: child taxes computation
+
+The box "Tax on children" was ignored in the pos, leading to 100% taxes for these
+taxes (as amount is 1.0 on these taxes).
+
+Add child tax fields when loading the pos to be able to correctly compute
+recusively the tax amount on children.
+
+Courtesy of Jean-Nicolas Brunet
+Fixes #1515, lp:1231574, opw 6221432015-04-16 17:36:12.766125
+
+系统更新完毕更新内容：[FIX] point_of_sale: child taxes computation
+
+The box "Tax on children" was ignored in the pos, leading to 100% taxes for these
+taxes (as amount is 1.0 on these taxes).
+
+Add child tax fields when loading the pos to be able to correctly compute
+recusively the tax amount on children.
+
+Courtesy of Jean-Nicolas Brunet
+Fixes #1515, lp:1231574, opw 6221432015-04-16 17:37:19.694360
+
+系统更新完毕更新内容：[FIX] point_of_sale: child taxes computation
+
+The box "Tax on children" was ignored in the pos, leading to 100% taxes for these
+taxes (as amount is 1.0 on these taxes).
+
+Add child tax fields when loading the pos to be able to correctly compute
+recusively the tax amount on children.
+
+Courtesy of Jean-Nicolas Brunet
+Fixes #1515, lp:1231574, opw 6221432015-04-16 17:39:54.551022
+
+系统无更新2015-04-16 18:01:04.266670
+
+系统无更新2015-04-17 09:01:04.935631
+
+系统更新完毕更新内容：[MERGE] forward port of branch saas-3 up to 50665b42015-04-17 09:01:24.686386
+
+系统无更新2015-04-17 09:30:03.966113
+
+系统无更新2015-04-17 10:01:03.878611
+
+系统无更新2015-04-17 10:30:04.134231
+
+系统无更新2015-04-17 11:01:03.432455
+
+系统无更新2015-04-17 11:30:03.626666
+
+系统无更新2015-04-17 12:01:12.049088
+
+系统无更新2015-04-17 12:30:23.268409
+
+系统无更新2015-04-17 13:01:06.497438
+
+系统无更新2015-04-17 13:30:03.904878
+
+系统无更新2015-04-17 14:01:04.233383
+
+系统无更新2015-04-17 14:30:03.419840
+
+系统无更新2015-04-17 15:01:12.969537
+
+系统无更新2015-04-17 15:30:03.469428
+
+系统无更新2015-04-17 16:01:15.599290
+
+系统无更新2015-04-17 16:30:04.077321
+
+系统无更新2015-04-17 17:01:04.236177
+
+系统无更新2015-04-17 17:30:04.700533
+
+系统无更新2015-04-17 18:01:16.201187
+
+系统无更新2015-04-17 18:30:03.621773
+
+系统无更新2015-04-17 19:01:04.443448
+
+系统无更新2015-04-17 19:30:04.658338
+
+系统无更新2015-04-17 20:01:05.577126
+
+系统更新完毕更新内容：[CLA] Corporate CLA: anubia2015-04-17 20:31:50.987775
+
+系统更新完毕更新内容：[MERGE] forward port of branch saas-3 up to a939efd2015-04-17 21:03:42.289568
+
+系统无更新2015-04-17 21:30:08.185482
+
+系统无更新2015-04-17 22:01:04.059387
+
+系统更新完毕更新内容：[CLA] Alejandro Santana2015-04-17 22:31:15.930317
+
+系统更新完毕更新内容：[FIX] mail: get template outgoing server
+
+The outgoing server of a mail template is not used when sending a mail.
+
+This fix propagates the mail server the same way it's done for auto_delete.
+
+opw-6330052015-04-17 23:02:03.437993
+
+系统更新完毕更新内容：[CLA] signature for Loyal2015-04-17 23:31:03.869568
+
+系统更新完毕更新内容：[FIX] fields: timezone aware context_timezone
+
+context_timestamp should always return a timezone aware timestamp, even when
+no timezone is set on the user.
+7f88681 fixed the bug in old api fields (openerp/osv/fields.py) but it was not
+applied to new api fields (openerp/fields.py). opw 6166122015-04-18 00:02:18.117230
+
+系统无更新2015-04-18 00:30:04.922364
+
+系统无更新2015-04-18 01:01:04.461329
+
+系统无更新2015-04-18 01:30:04.004144
+
+系统无更新2015-04-18 02:01:03.328881
+
+系统无更新2015-04-18 02:30:03.215433
+
+系统无更新2015-04-18 03:01:03.128404
+
+系统无更新2015-04-18 03:30:04.001293
+
+系统无更新2015-04-18 04:01:02.992016
+
+系统无更新2015-04-18 04:30:02.973313
+
+系统无更新2015-04-18 05:01:02.891449
+
+系统无更新2015-04-18 05:30:03.877537
+
+系统无更新2015-04-18 06:01:04.234097
+
+系统无更新2015-04-18 06:30:03.597714
+
+系统无更新2015-04-18 07:01:04.550907
+
+系统无更新2015-04-18 07:30:03.450649
+
+系统无更新2015-04-18 08:01:03.839938
+
+系统无更新2015-04-18 08:30:05.678713
+
+系统无更新2015-04-18 09:01:07.614461
+
+系统无更新2015-04-18 09:30:03.677079
+
+系统无更新2015-04-18 10:01:04.333365
+
+系统无更新2015-04-18 10:12:44.518143
+
+系统更新完毕更新内容：[FIX] fields: timezone aware context_timezone
+
+context_timestamp should always return a timezone aware timestamp, even when
+no timezone is set on the user.
+7f88681 fixed the bug in old api fields (openerp/osv/fields.py) but it was not
+applied to new api fields (openerp/fields.py). opw 6166122015-04-18 10:13:34.897750
+
+系统更新完毕更新内容：[FIX] fields: timezone aware context_timezone
+
+context_timestamp should always return a timezone aware timestamp, even when
+no timezone is set on the user.
+7f88681 fixed the bug in old api fields (openerp/osv/fields.py) but it was not
+applied to new api fields (openerp/fields.py). opw 6166122015-04-18 10:27:31.190198
+
+系统无更新2015-04-18 10:30:05.435156
+
+系统无更新2015-04-18 11:01:04.579384
+
+系统无更新2015-04-18 11:30:04.231327
+
+系统无更新2015-04-18 12:01:03.876345
+
+系统无更新2015-04-18 12:30:04.348892
+
+系统无更新2015-04-18 13:01:13.388927
+
+系统无更新2015-04-18 13:30:03.405491
+
+系统无更新2015-04-18 14:01:05.035722
+
+系统无更新2015-04-18 14:30:03.064149
+
+系统无更新2015-04-18 15:01:03.116637
+
+系统无更新2015-04-18 15:30:04.486147
+
+系统无更新2015-04-18 16:01:05.444639
+
+系统无更新2015-04-18 16:30:03.738452
+
+系统无更新2015-04-18 17:01:04.524955
+
+系统无更新2015-04-18 17:30:03.806814
+
+系统无更新2015-04-18 18:01:04.676917
+
+系统无更新2015-04-18 18:30:04.552524
+
+系统无更新2015-04-18 19:01:06.631364
+
+系统无更新2015-04-18 19:30:04.773674
+
+系统无更新2015-04-18 20:01:03.877197
+
+系统无更新2015-04-18 20:30:07.330009
+
+系统无更新2015-04-18 21:01:07.242341
+
+系统无更新2015-04-18 21:30:16.265730
+
+系统无更新2015-04-18 22:01:05.733695
+
+系统无更新2015-04-18 22:30:03.848990
+
+系统无更新2015-04-18 23:01:04.805244
+
+系统无更新2015-04-18 23:30:04.826456
+
+系统无更新2015-04-19 00:01:04.475213
+
+系统无更新2015-04-19 00:30:03.759321
+
+系统无更新2015-04-19 01:01:04.014847
+
+系统无更新2015-04-19 01:30:03.427734
+
+系统无更新2015-04-19 02:01:04.512385
+
+系统无更新2015-04-19 02:30:03.671806
+
+系统无更新2015-04-19 03:01:03.676360
+
+系统无更新2015-04-19 03:30:03.640682
+
+系统无更新2015-04-19 04:01:03.559850
+
+系统无更新2015-04-19 04:30:03.458331
+
+系统无更新2015-04-19 05:01:03.396129
+
+系统无更新2015-04-19 05:30:03.471370
+
+系统无更新2015-04-19 06:01:03.627471
+
+系统无更新2015-04-19 06:30:03.706783
+
+系统无更新2015-04-19 07:01:03.611285
+
+系统无更新2015-04-19 07:30:04.005607
+
+系统无更新2015-04-19 08:01:02.962514
+
+系统无更新2015-04-19 08:30:04.001106
+
+系统无更新2015-04-19 09:01:03.129729
+
+系统无更新2015-04-19 09:30:03.519831
+
+系统无更新2015-04-19 10:01:03.937460
+
+系统无更新2015-04-19 10:30:04.021066
+
+系统无更新2015-04-19 11:01:03.829223
+
+系统无更新2015-04-19 11:30:04.346943
+
+系统无更新2015-04-19 12:01:06.767114
+
+系统无更新2015-04-19 12:30:03.886077
+
+系统无更新2015-04-19 13:01:04.924519
+
+系统无更新2015-04-19 13:30:04.395597
+
+系统无更新2015-04-19 14:01:03.411833
+
+系统无更新2015-04-19 14:30:12.436699
+
+系统无更新2015-04-19 15:01:05.071198
+
+系统无更新2015-04-19 15:30:04.917172
+
+系统无更新2015-04-19 16:01:05.664898
+
+系统无更新2015-04-19 16:30:13.911287
+
+系统无更新2015-04-19 17:01:04.603959
+
+系统无更新2015-04-19 17:30:03.510226
+
+系统无更新2015-04-19 18:01:03.521310
+
+系统无更新2015-04-19 18:30:04.276781
+
+系统无更新2015-04-19 19:01:04.698678
+
+系统无更新2015-04-19 19:30:11.385339
+
+系统无更新2015-04-19 20:01:05.398432
+
+系统无更新2015-04-19 20:30:07.519977
+
+系统无更新2015-04-19 21:01:04.304266
+
+系统无更新2015-04-19 21:30:05.825247
+
+系统无更新2015-04-19 22:01:04.896061
+
+系统无更新2015-04-19 22:30:06.346737
+
+系统无更新2015-04-19 23:01:05.989666
+
+系统无更新2015-04-19 23:30:02.944922
+
+系统无更新2015-04-20 00:01:04.309340
+
+系统无更新2015-04-20 00:30:03.652300
+
+系统无更新2015-04-20 01:01:03.911524
+
+系统无更新2015-04-20 01:30:05.039535
+
+系统无更新2015-04-20 02:01:03.069111
+
+系统无更新2015-04-20 02:30:03.239857
+
+系统无更新2015-04-20 03:01:03.375771
+
+系统无更新2015-04-20 03:30:03.589552
+
+系统无更新2015-04-20 04:01:03.512609
+
+系统无更新2015-04-20 04:30:03.714536
+
+系统无更新2015-04-20 05:01:04.087154
+
+系统无更新2015-04-20 05:30:03.415294
+
+系统无更新2015-04-20 06:01:03.737073
+
+系统无更新2015-04-20 06:30:03.633129
+
+系统无更新2015-04-20 07:01:03.725627
+
+系统无更新2015-04-20 07:30:03.892583
+
+系统无更新2015-04-20 08:01:04.593342
+
+系统无更新2015-04-20 08:30:03.855588
+
+系统无更新2015-04-20 09:01:04.107069
+
+系统无更新2015-04-20 09:30:03.087687
+
+系统无更新2015-04-20 10:01:02.923004
+
+系统无更新2015-04-20 10:30:04.613993
+
+系统无更新2015-04-20 11:01:48.938074
+
+系统无更新2015-04-20 11:30:04.646963
+
+系统无更新2015-04-20 12:01:03.939227
+
+系统无更新2015-04-20 12:30:04.183436
+
+系统无更新2015-04-20 13:01:57.115630
+
+系统无更新2015-04-20 13:30:03.731801
+
+系统无更新2015-04-20 14:01:04.471080
+
+系统无更新2015-04-20 14:30:03.845516
+
+系统更新完毕更新内容：[FIX] point of sale: Rounding method
+
+By default, the point of sale awlways uses the rounding method per line.
+But the accounting configuration allows to use the globally rounding method,
+this is why the point of sale must consider this configuration.
+Inspired from the compute_all of account.tax model within
+addons/account/account.py.
+
+opw:6325372015-04-20 15:02:59.828915
+
+系统无更新2015-04-20 15:30:03.961842
+
+系统更新完毕更新内容：[FIX] call fields_view_get with named context
+
+otherwise new API bridging breaks down
+
+closes #63712015-04-20 16:02:13.195346
+
+系统无更新2015-04-20 16:30:08.354935
+
+系统无更新2015-04-20 17:01:03.897243
+
+系统无更新2015-04-20 17:30:04.075939
+
+系统更新完毕更新内容：[FIX] core: avoid infinite recursive loop.
+
+`function` fields are fully copied via `copy.copy()`.
+`copy.copy()` *do not* call `__init__` after object creation; then
+restore the state via `__setstate__()` or by updating `__dict__` or via
+`setattr()` when the object uses `__slots__`.
+
+As `__init__` is not called, the newly created object does not have any
+`_args` attribute. This lead to a recursive call of `__getattr__ when
+`copy.copy` check the existance of `__setstate__` attribute.
+
+When break this loop by forbidding explicitly by checking the attribute
+name accessed (We cannot check the presence of `_args` in `__dict__`
+because we uses `__slots__`).
+
+See http://bugs.python.org/issue5370
+Fixes #6037
+opw:6331092015-04-20 18:01:55.573438
+
+系统更新完毕更新内容：[MERGE] forward port of branch saas-3 up to 9323f2b2015-04-20 18:31:00.049374
+
+系统更新完毕更新内容：[FIX] website_sale: fixed display of variant informations in cart
+
+Prior to this, even if your suggested or optional products were variants,
+only the name of the template was shown.
+Fixed GitHub issue 2746 and opw 6147762015-04-20 19:01:51.139639
+
+系统更新完毕更新内容：[FIX] web: priority stars on/off design in modals
+
+When opening a task through a modal, like
+when opening the task field of an issue while
+being in edit mode, the priority stars
+had not the same design than in the
+regular task form.
+
+opw-6334262015-04-20 19:30:49.222800
+
+系统无更新2015-04-20 20:01:13.550875
+
+系统无更新2015-04-20 20:30:04.029001
+
+系统无更新2015-04-20 21:01:03.207494
+
+系统无更新2015-04-20 21:30:06.549385
+
+系统更新完毕更新内容：[FIX] mail: Work order translation
+
+The action_confirm function losses the context when called by a workflow.
+To have the right translation, the lang of the user must be written in the context.
+
+opw:6328732015-04-20 22:01:53.149810
+
+系统无更新2015-04-20 22:30:15.771867
+
+系统更新完毕更新内容：[FIX] web: onchange on field binary
+
+If a onchange is set on a binary field, the name of the file (filename attribute
+defined in the view) is still the name of the previous file.
+Fixes #2427, opw 6171092015-04-20 23:02:28.099143
+
+系统无更新2015-04-20 23:30:07.212352
+
+系统无更新2015-04-21 00:01:05.219066
+
+系统无更新2015-04-21 00:30:03.716801
+
+系统无更新2015-04-21 01:01:03.658904
+
+系统无更新2015-04-21 01:30:03.809819
+
+系统无更新2015-04-21 02:01:03.776974
+
+系统无更新2015-04-21 02:30:03.700674
+
+系统无更新2015-04-21 03:01:03.660466
+
+系统无更新2015-04-21 03:30:04.057954
+
+系统无更新2015-04-21 04:01:03.172387
+
+系统无更新2015-04-21 04:30:03.207576
+
+系统无更新2015-04-21 05:01:03.414218
+
+系统无更新2015-04-21 05:30:03.454678
+
+系统无更新2015-04-21 06:01:05.421648
+
+系统无更新2015-04-21 06:30:04.278956
+
+系统无更新2015-04-21 07:01:03.743510
+
+系统无更新2015-04-21 07:30:03.767219
+
+系统无更新2015-04-21 08:01:03.748437
+
+系统无更新2015-04-21 08:30:04.032692
+
+系统无更新2015-04-21 09:01:03.270087
+
+系统无更新2015-04-21 09:30:04.756406
+
+系统无更新2015-04-21 10:01:03.716381
+
+系统无更新2015-04-21 10:30:05.688598
+
+系统无更新2015-04-21 11:01:04.107908
+
+系统无更新2015-04-21 11:30:05.119504
+
+系统无更新2015-04-21 12:01:03.257316
+
+系统无更新2015-04-21 12:30:03.881725
+
+系统无更新2015-04-21 13:01:05.017993
+
+系统无更新2015-04-21 13:30:02.931211
+
+系统无更新2015-04-21 14:01:04.060106
+
+系统无更新2015-04-21 14:30:03.613128
+
+系统更新完毕更新内容：[FIX] sale_stock: supplier invoice
+
+During the creation of an invoice, the partner returned by "_get_master_data" depends on inv_type.
+inv_type = "out_invoice" is for customer invoice
+inv_type = "in_invoice" is for supplier invoice
+
+opw:632392, 6325832015-04-21 15:02:12.301485
+
+系统无更新2015-04-21 15:30:05.602746
+
+系统无更新2015-04-21 16:01:04.190658
+
+系统更新完毕更新内容：[FIX] account: duplicate tax
+the duplication of a tax must duplicate the child_ids.
+
+opw:6305102015-04-21 16:31:14.923748
+
+系统无更新2015-04-21 17:01:04.269858
+
+系统无更新2015-04-21 17:30:03.659923
+
+系统无更新2015-04-21 18:01:04.501777
+
+系统无更新2015-04-21 18:30:05.996142
+
+系统无更新2015-04-21 19:01:03.520930
+
+系统无更新2015-04-21 19:30:04.437437
+
+系统无更新2015-04-21 20:01:04.183980
+
+系统无更新2015-04-21 20:30:06.485535
+
+系统无更新2015-04-21 21:01:03.888983
+
+系统更新完毕更新内容：[IMP] crm: Opportunities Analysis menu visible to Sale Manager
+
+Before this commit, it was only visible by the admin user.
+
+I used the crm.phonecall.report rules as an example, but I don't
+think either of those or the opportunities ones are actually
+used in the case of group_sale_salesman, because the submenu
+Sales of the Reporting menu is only visible to the Sale Manager.
+
+Fixes opw 615048.2015-04-21 21:31:15.155055
+
+系统更新完毕更新内容：[FIX] website: Published/Not Published button now dynamically updates
+
+Prior to this fix, when you clicked on Publish or Not Published, the
+effect was immediate, but the button disappeared instead of just
+updating itself to the new value.
+
+Fixes opw 614561.2015-04-21 22:02:09.382837
+
+系统无更新2015-04-21 22:30:03.998807
+
+系统无更新2015-04-21 23:01:06.289153
+
+系统更新完毕更新内容：[ADD] New payment acquirer Authorize.net.2015-04-21 23:31:04.733137
+
+系统无更新2015-04-22 00:01:06.403377
+
+系统更新完毕更新内容：[FIX] netsvc: logs to syslog
+
+When starting the Odoo server with the parameters --syslog,
+the logs are supposed to be pushed in the syslog.
+
+This was no longer the case since e9d047e6119d8065a8d31a7d3b374630ab90c40d.
+Indeed, if no address is specified ('localhost', 514) is used,
+which not always work. We therefore have no choice to define an address
+which is '/var/run/log' for MacOSx,
+and '/dev/log' for any other linux system.
+
+opw-6330742015-04-22 00:31:04.367926
+
+系统无更新2015-04-22 01:01:04.513391
+
+系统无更新2015-04-22 01:30:03.532956
+
+系统无更新2015-04-22 02:01:03.556788
+
+系统无更新2015-04-22 02:30:03.524449
+
+系统无更新2015-04-22 03:01:03.761815
+
+系统无更新2015-04-22 03:30:04.134025
+
+系统无更新2015-04-22 04:01:03.131592
+
+系统无更新2015-04-22 04:30:03.268454
+
+系统无更新2015-04-22 05:01:03.242639
+
+系统无更新2015-04-22 05:30:03.183946
+
+系统无更新2015-04-22 06:01:03.287385
+
+系统无更新2015-04-22 06:30:03.820248
+
+系统无更新2015-04-22 07:01:03.646927
+
+系统无更新2015-04-22 07:30:04.068001
+
+系统无更新2015-04-22 08:01:03.442139
+
+系统无更新2015-04-22 08:30:03.785377
+
+系统无更新2015-04-22 09:01:04.120267
+
+系统无更新2015-04-22 09:30:03.518141
+
+系统无更新2015-04-22 10:01:03.754490
+
+系统无更新2015-04-22 10:30:03.674479
+
+系统无更新2015-04-22 11:01:04.091321
+
+系统无更新2015-04-22 11:30:03.082158
+
+系统无更新2015-04-22 12:01:03.053962
+
+系统无更新2015-04-22 12:30:03.023935
+
+系统无更新2015-04-22 13:01:03.125691
+
+系统无更新2015-04-22 13:30:03.281958
+
+系统无更新2015-04-22 14:01:07.045790
+
+系统无更新2015-04-22 14:30:03.080016
+
+系统无更新2015-04-22 15:01:03.175918
+
+系统无更新2015-04-22 15:30:03.151299
+
+系统无更新2015-04-22 16:01:07.701443
+
+系统无更新2015-04-22 16:30:04.757747
+
+系统更新完毕更新内容：[FIX] web: keep domain with search field
+
+Currently (since commit e6a2d222d6), the domain of a search view field tag
+is dropped.
+
+This previous change was done since some of these domains refers to a
+field not available in the javascript.
+
+This fix drop the domain only if it can't be evaluated in the javascript
+side.
+
+opw-6320302015-04-22 17:02:15.707849
+
+系统无更新2015-04-22 17:30:04.089849
+
+系统更新完毕更新内容：[FIX] doc: extra underline for document titles when document has no introductory blurb2015-04-22 18:02:00.961530
+
+系统无更新2015-04-22 18:30:03.933974
+
+系统无更新2015-04-22 19:01:04.878308
+
+系统无更新2015-04-22 19:30:06.179719
+
+系统无更新2015-04-22 20:01:03.586922
+
+系统无更新2015-04-22 20:30:03.753877
+
+系统无更新2015-04-22 21:01:06.395272
+
+系统无更新2015-04-22 21:30:03.924185
+
+系统无更新2015-04-22 22:01:04.380898
+
+系统无更新2015-04-22 22:30:05.713506
+
+系统更新完毕更新内容：[FIX] website_quote: accept button wasn't shown if no expiration date was set on the sale order2015-04-22 23:02:03.968254
+
+系统无更新2015-04-22 23:30:03.547105
+
+系统更新完毕更新内容：[FIX] web: translation of default M2O values in search bar
+
+When a many2one field of a searchview was selected
+by default, through a default_*_id within the context,
+the many2one value name wasn't translated.
+
+e.g. with Spanish loaded (and l10n_multilang installed),
+translate a project.project name in Spanish.
+Then, while being in Spanish, in the project.project kanban,
+click on the Tasks link of a project (tareas),
+then, notice the value of the project name in the
+search bar.
+
+opw-6328182015-04-23 00:01:59.178425
+
+系统更新完毕更新内容：[FIX] account_cancel: reload whole bank statement on transaction canceling
+
+When canceling a bank.statement.line of a bank.statement
+ready to be closed
+(all lines reconciled,
+reconcile button hidden and close button visible)
+
+The form wasn't reloaded, and the reconcile button
+was not displayed after having cancel the statement line
+
+opw-6320632015-04-23 00:30:50.398243
+
+系统更新完毕更新内容：[FIX] ir.values: clear defaults cache when user company changes
+
+The defaults of ir.values depends on the user company, but there is no
+cache invalidation when the company of a user change.
+
+This fix adds the clearing of the default's cache in this case.
+
+Closes #6339
+opw-6299792015-04-23 01:01:46.368355
+
+系统无更新2015-04-23 01:30:04.194041
+
+系统无更新2015-04-23 02:01:03.214875
+
+系统无更新2015-04-23 02:30:03.355093
+
+系统无更新2015-04-23 03:01:03.767226
+
+系统无更新2015-04-23 03:30:03.819457
+
+系统无更新2015-04-23 04:01:04.432098
+
+系统无更新2015-04-23 04:30:03.867258
+
+系统无更新2015-04-23 05:01:04.300230
+
+系统无更新2015-04-23 05:30:03.435482
+
+系统无更新2015-04-23 06:01:03.381170
+
+系统无更新2015-04-23 06:30:03.688758
+
+系统无更新2015-04-23 07:01:03.608690
+
+系统无更新2015-04-23 07:30:03.631870
+
+系统无更新2015-04-23 08:01:03.668919
+
+系统无更新2015-04-23 08:30:03.545180
+
+系统无更新2015-04-23 09:01:03.618562
+
+系统无更新2015-04-23 09:30:03.590459
+
+系统无更新2015-04-23 10:01:03.731756
+
+系统无更新2015-04-23 10:30:03.771516
+
+系统无更新2015-04-23 11:01:03.740204
+
+系统无更新2015-04-23 11:30:03.804269
+
+系统无更新2015-04-23 12:01:04.277705
+
+系统无更新2015-04-23 12:30:03.247437
+
+系统无更新2015-04-23 13:01:03.194149
+
+系统无更新2015-04-23 13:30:03.876823
+
+系统无更新2015-04-23 14:01:06.311232
+
+系统无更新2015-04-23 14:30:04.025051
+
+系统无更新2015-04-23 15:01:02.906843
+
+系统无更新2015-04-23 15:30:14.863610
+
+系统无更新2015-04-23 16:01:04.874826
+
+系统无更新2015-04-23 16:30:04.672048
+
+系统更新完毕更新内容：[FIX] product: pricelist specific to a product
+
+Double list comprehension is a nice try but does not work in python.
+prod_ids was a list containing only the first variant, so getting the
+product-specific pricelists only for the first variant of the first template.
+Fixes #29002015-04-23 17:02:41.180076
+
+系统无更新2015-04-23 17:30:03.865686
+
+系统无更新2015-04-23 18:01:04.286291
+
+系统无更新2015-04-23 18:30:04.672860
+
+系统无更新2015-04-23 19:01:03.934499
+
+系统更新完毕更新内容：[FIX] account_analytic_analysis: fiscal position should use the get_fiscal_position() function
+
+When automatically generating invoices, contract should browse the fiscal position by calling
+the function get_fiscal_position of the account.fiscal.position class instead of checking the
+property field on the partner2015-04-23 20:01:59.204198
+
+系统无更新2015-04-23 20:30:05.267529
+
+系统更新完毕更新内容：[CLA] CLA for Numérigraphe2015-04-23 21:01:54.864004
+
+系统更新完毕更新内容：[FIX] web: allow to export unordinary table
+
+Previously, there was an exception when exporting unordinary table (e.g:
+reports) coming from the export of the xml_id.
+
+With this change, if the table is not ordinary, the xml_id is not
+present in the exported file.
+
+closes #6428
+issue #6336
+opw-6330662015-04-23 21:31:04.219190
+
+系统更新完毕更新内容：[FIX] account: Bank Statement Action View Sequence
+
+Ensure correct sequence of bank statement action views.
+As the views are sorted based on the sequence, make sure the tree is selected
+before the form view.
+Fixes #64132015-04-23 21:31:15.935483
+
+系统更新完毕更新内容：[CLA] Odoo CLA for Daniel-CA2015-04-23 22:02:04.170384
+
+系统更新完毕更新内容：[FIX] web: onchange compare changes using === operator
+
+The onchange handler is doing a weak comparison between the values received from
+the onchange() method and the current field value, which leads to a falsy value
+such as "0000" being treated as equal to False.
+This patches changes the operator to enforce non-coercive equality.
+Fixes #64052015-04-23 22:30:46.654646
+
+系统更新完毕更新内容：[ADD] base: Australian states
+
+Fixes #64022015-04-23 23:02:02.861920
+
+系统无更新2015-04-23 23:30:04.239803
+
+系统无更新2015-04-24 00:01:04.208675
+
+系统无更新2015-04-24 00:30:03.636062
+
+系统无更新2015-04-24 01:01:05.923436
+
+系统无更新2015-04-24 01:30:04.002878
+
+系统无更新2015-04-24 02:01:03.069818
+
+系统无更新2015-04-24 02:30:03.470941
+
+系统无更新2015-04-24 03:01:03.346039
+
+系统无更新2015-04-24 03:30:03.369694
+
+系统无更新2015-04-24 04:01:03.864230
+
+系统无更新2015-04-24 04:30:04.120701
+
+系统无更新2015-04-24 05:01:03.175111
+
+系统无更新2015-04-24 05:30:03.495696
+
+系统无更新2015-04-24 06:01:03.536254
+
+系统无更新2015-04-24 06:30:03.626072
+
+系统无更新2015-04-24 07:01:03.546329
+
+系统无更新2015-04-24 07:30:03.708016
+
+系统无更新2015-04-24 08:01:03.722923
+
+系统无更新2015-04-24 08:30:03.866840
+
+系统无更新2015-04-24 09:01:04.107932
+
+系统无更新2015-04-24 09:30:03.298565
+
+系统无更新2015-04-24 10:01:03.465297
+
+系统无更新2015-04-24 10:30:03.502796
+
+系统无更新2015-04-24 11:01:03.628440
+
+系统无更新2015-04-24 11:30:03.574722
+
+系统无更新2015-04-24 12:01:04.072652
+
+系统无更新2015-04-24 12:30:04.488864
+
+系统无更新2015-04-24 13:01:04.612359
+
+系统无更新2015-04-24 13:30:04.305554
+
+系统无更新2015-04-24 14:01:21.030584
+
+系统无更新2015-04-24 14:30:03.782704
+
+系统无更新2015-04-24 15:01:04.740119
+
+系统更新完毕更新内容：[FIX] sale_margin: sale margin accuracy
+
+Unit Price, Cost Price and Margin must have the same accuracy.
+
+opw:6325112015-04-24 15:31:22.345362
+
+系统无更新2015-04-24 16:01:04.335998
+
+系统无更新2015-04-24 16:30:03.275338
+
+系统无更新2015-04-24 17:01:04.375895
+
+系统更新完毕更新内容：[FIX] web: get right result for arrow suggestions
+
+In the search input, the result of filtered search with an arrow was
+placed under the currently selected arrow.
+
+Hence if we get to another arrow filter before the result is received,
+the result is added under the wrong arrow.
+
+This fix adds the result under the right arrow.
+
+closes #6442
+opw-6325192015-04-24 18:02:06.136899
+
+系统无更新2015-04-24 18:30:04.061314
+
+系统无更新2015-04-24 19:01:03.508276
+
+系统无更新2015-04-24 19:30:03.658208
+
+系统更新完毕更新内容：[FIX] account: Invoice's creation problem
+
+The action window "action_invoice_refund_out_tree" must have the same
+context that "action_invoice_tree1"
+
+opw:6336352015-04-24 20:01:58.325773
+
+系统无更新2015-04-24 20:30:04.779487
+
+系统无更新2015-04-24 21:01:07.323442
+
+系统无更新2015-04-24 21:30:03.364374
+
+系统更新完毕更新内容：[FIX] stock_dropshipping: do not warn for dropshipped items non-availibility
+
+When selectiong a dropshipped product in a sale.order, the user should not be
+warned that the product is not available in stock (as it never goes to the stock
+anyway but directly from the supplier to the customer).
+Factorise verification in _check_routing method.2015-04-24 22:02:15.340065
+
+系统无更新2015-04-24 22:30:23.293368
+
+系统无更新2015-04-24 23:01:03.954765
+
+系统无更新2015-04-24 23:30:04.573505
+
+系统更新完毕更新内容：[FIX] sale_*, delivery: more consistent ignore of cancelled SO lines
+
+Sales Order lines have a cancelled state, but this state is not
+always considered when looping over lines. This check is
+done in some places already and this patch's aim is to do it in the
+remaining places.
+
+- Cancel the procurement of a sale line in sale.order.line
+instead of sale.order, so a line canceled individually with
+sale_order_line.button_cancel will properly cancel it
+procurement.
+- Sale report: uses the state of lines instead of Sales order,
+so canceled lines of not-canceled orders are correctly represented
+in the analysis.
+- test: do not create invoices lines for canceled sale lines
+- test: creation of moves with canceled lines
+- test: check if lines are still canceled when sale order is done
+
+Closes #60362015-04-25 00:01:56.184581
+
+系统无更新2015-04-25 00:30:03.336639
+
+系统无更新2015-04-25 01:01:04.134524
+
+系统无更新2015-04-25 01:30:03.079402
+
+系统无更新2015-04-25 02:01:03.345956
+
+系统无更新2015-04-25 02:30:03.265093
+
+系统无更新2015-04-25 03:01:03.371459
+
+系统无更新2015-04-25 03:30:03.550864
+
+系统无更新2015-04-25 04:01:03.760060
+
+系统无更新2015-04-25 04:30:03.693142
+
+系统无更新2015-04-25 05:01:03.847723
+
+系统无更新2015-04-25 05:30:03.965249
+
+系统无更新2015-04-25 06:01:03.962462
+
+系统无更新2015-04-25 06:30:04.993871
+
+系统无更新2015-04-25 07:01:03.183357
+
+系统无更新2015-04-25 07:30:03.559086
+
+系统无更新2015-04-25 08:01:03.576552
+
+系统无更新2015-04-25 08:30:03.514441
+
+系统无更新2015-04-25 09:01:03.515739
+
+系统无更新2015-04-25 09:30:04.001957
+
+系统无更新2015-04-25 10:01:03.095718
+
+系统无更新2015-04-25 10:30:03.042632
+
+系统无更新2015-04-25 11:01:03.672084
+
+系统无更新2015-04-25 11:30:03.522896
+
+系统无更新2015-04-25 12:01:03.726973
+
+系统无更新2015-04-25 12:30:04.335332
+
+系统无更新2015-04-25 13:01:03.382159
+
+系统无更新2015-04-25 13:30:03.362043
+
+系统无更新2015-04-25 14:01:05.510664
+
+系统无更新2015-04-25 14:30:04.276699
+
+系统无更新2015-04-25 15:01:04.051216
+
+系统无更新2015-04-25 15:30:02.937738
+
+系统无更新2015-04-25 16:01:04.291802
+
+系统无更新2015-04-25 16:30:04.969649
+
+系统无更新2015-04-25 17:01:02.834589
+
+系统无更新2015-04-25 17:30:04.744782
+
+系统无更新2015-04-25 18:01:03.962304
+
+系统无更新2015-04-25 18:30:06.260573
+
+系统无更新2015-04-25 19:01:03.732692
+
+系统无更新2015-04-25 19:30:04.296022
+
+系统无更新2015-04-25 20:01:04.369878
+
+系统无更新2015-04-25 20:30:05.083693
+
+系统无更新2015-04-25 21:01:03.773867
+
+系统无更新2015-04-25 21:30:04.265266
+
+系统无更新2015-04-25 22:01:04.703518
+
+系统无更新2015-04-25 22:30:04.126970
+
+系统无更新2015-04-25 23:01:02.977232
+
+系统无更新2015-04-25 23:30:05.810656
+
+系统无更新2015-04-26 00:01:04.220901
+
+系统无更新2015-04-26 00:30:04.132229
+
+系统无更新2015-04-26 01:01:03.283108
+
+系统无更新2015-04-26 01:30:03.365806
+
+系统无更新2015-04-26 02:01:03.288723
+
+系统无更新2015-04-26 02:30:03.478814
+
+系统无更新2015-04-26 03:01:03.798557
+
+系统无更新2015-04-26 03:30:04.157793
+
+系统无更新2015-04-26 04:01:03.277792
+
+系统无更新2015-04-26 04:30:03.187272
+
+系统无更新2015-04-26 05:01:03.340602
+
+系统无更新2015-04-26 05:30:03.472783
+
+系统无更新2015-04-26 06:01:03.714330
+
+系统无更新2015-04-26 06:30:03.453241
+
+系统无更新2015-04-26 07:01:04.538382
+
+系统无更新2015-04-26 07:30:03.777136
+
+系统无更新2015-04-26 08:01:04.023786
+
+系统无更新2015-04-26 08:30:03.158781
+
+系统无更新2015-04-26 09:01:03.234225
+
+系统无更新2015-04-26 09:30:03.216094
+
+系统无更新2015-04-26 10:01:03.445056
+
+系统无更新2015-04-26 10:30:03.469495
+
+系统无更新2015-04-26 11:01:03.728860
+
+系统无更新2015-04-26 11:30:04.396337
+
+系统无更新2015-04-26 12:01:04.113165
+
+系统无更新2015-04-26 12:30:03.073137
+
+系统无更新2015-04-26 13:01:03.519606
+
+系统无更新2015-04-26 13:30:07.533507
+
+系统无更新2015-04-26 14:01:03.975727
+
+系统无更新2015-04-26 14:30:05.813695
+
+系统无更新2015-04-26 15:01:06.650250
+
+系统无更新2015-04-26 15:30:05.221674
+
+系统无更新2015-04-26 16:01:03.699132
+
+系统无更新2015-04-26 16:30:07.283819
+
+系统无更新2015-04-26 17:01:03.993625
+
+系统无更新2015-04-26 17:30:03.133688
+
+系统无更新2015-04-26 18:01:03.492634
+
+系统无更新2015-04-26 18:30:04.231576
+
+系统无更新2015-04-26 19:01:03.705689
+
+系统无更新2015-04-26 19:30:04.335908
+
+系统无更新2015-04-26 20:01:03.214844
+
+系统无更新2015-04-26 20:30:07.206312
+
+系统无更新2015-04-26 21:01:04.000164
+
+系统无更新2015-04-26 21:30:04.174907
+
+系统无更新2015-04-26 22:01:04.113686
+
+系统无更新2015-04-26 22:30:03.704895
+
+系统无更新2015-04-26 23:01:04.317139
+
+系统无更新2015-04-26 23:30:04.049056
+
+系统无更新2015-04-27 00:01:03.049629
+
+系统无更新2015-04-27 00:30:02.887944
+
+系统无更新2015-04-27 01:01:04.305296
+
+系统无更新2015-04-27 01:30:03.308703
+
+系统无更新2015-04-27 02:01:03.453333
+
+系统无更新2015-04-27 02:30:03.585455
+
+系统无更新2015-04-27 03:01:03.695534
+
+系统无更新2015-04-27 03:30:05.603582
+
+系统无更新2015-04-27 04:01:04.118300
+
+系统无更新2015-04-27 04:30:03.572590
+
+系统无更新2015-04-27 05:01:03.481269
+
+系统无更新2015-04-27 05:30:03.374513
+
+系统无更新2015-04-27 06:01:03.445578
+
+系统无更新2015-04-27 06:30:04.018306
+
+系统无更新2015-04-27 07:01:03.106222
+
+系统无更新2015-04-27 07:30:03.517554
+
+系统无更新2015-04-27 08:01:03.722127
+
+系统无更新2015-04-27 08:30:04.370141
+
+系统无更新2015-04-27 09:01:03.694743
+
+系统无更新2015-04-27 09:30:03.642251
+
+系统无更新2015-04-27 10:01:04.003527
+
+系统无更新2015-04-27 10:30:02.982599
+
+系统无更新2015-04-27 11:01:03.011725
+
+系统无更新2015-04-27 11:30:03.066736
+
+系统无更新2015-04-27 12:01:03.306286
+
+系统无更新2015-04-27 12:30:06.954938
+
+系统无更新2015-04-27 13:01:05.143469
+
+系统无更新2015-04-27 13:30:03.839111
+
+系统无更新2015-04-27 14:01:10.673200
+
+系统无更新2015-04-27 14:30:04.047066
+
+系统无更新2015-04-27 15:01:04.844060
+
+系统更新完毕更新内容：[FIX] account: float issue in reconciliation wizard
+
+The CSS on the linei with the "New" button of an bank statement
+reconciliation wizard was only applied when there was only a multiple of
+two "block" before.
+
+Hence it worked when there was a multiple of 2 cases before, but if not
+(for example when account_analytic_plans is installed) on:
+
+- google chrome: the button is on the right (instead of on a line by its
+  own).
+
+- firefox: idem, but also a difference in float display positioning
+  caused the parent container to not take floating elements into account
+  to calculate it's height.
+
+This fix apply the CSS independently if the last block is even or odd.
+
+Before this fix in firefox:
+ https://cloud.githubusercontent.com/assets/9977887/7315195/70ca5eca-ea6b-11e4-8892-1272f7ee0cb4.png
+
+After this fix in firefox:
+ https://cloud.githubusercontent.com/assets/9977887/7315194/6e2b05ca-ea6b-11e4-9400-69c9cd587756.png
+
+closes #6459
+opw-6337032015-04-27 15:31:30.128650
+
+系统无更新2015-04-27 16:01:04.390737
+
+系统无更新2015-04-27 16:30:04.028682
+
+系统无更新2015-04-27 17:01:03.150631
+
+系统更新完毕更新内容：[FIX] website: removed the deers picture
+
+The new image comes from www.gratisography.com by Bells Design and is
+licensed under Creative Commons Zero.2015-04-27 17:31:29.948622
+
+系统无更新2015-04-27 18:01:04.749484
+
+系统无更新2015-04-27 18:30:04.676038
+
+系统更新完毕更新内容：[FIX] website_hr: add published for hr.employee
+
+Previously, we could unpublish an employee from the website, but there
+was no simple way to publish it again after we leave the page.
+
+This fix show the unpublished employees on the about us page for the
+users who can modify these employees records.
+
+closes #6416
+opw-6334622015-04-27 19:02:12.581627
+
+系统无更新2015-04-27 19:30:04.299734
+
+系统无更新2015-04-27 20:01:05.185637
+
+系统更新完毕更新内容：[MERGE] forward port of branch saas-3 up to 09b277c2015-04-27 20:31:02.834418
+
+系统无更新2015-04-27 21:01:05.287110
+
+系统无更新2015-04-27 21:30:04.736974
+
+系统无更新2015-04-27 22:01:24.720448
+
+系统无更新2015-04-27 22:30:04.271087
+
+系统无更新2015-04-27 23:01:03.737967
+
+系统无更新2015-04-27 23:30:04.399761
+
+系统无更新2015-04-28 00:01:04.256164
+
+系统无更新2015-04-28 00:30:03.757168
+
+系统无更新2015-04-28 01:01:03.751473
+
+系统无更新2015-04-28 01:30:03.730371
+
+系统无更新2015-04-28 02:01:03.697888
+
+系统无更新2015-04-28 02:30:03.746921
+
+系统无更新2015-04-28 03:01:03.696239
+
+系统无更新2015-04-28 03:30:03.580756
+
+系统无更新2015-04-28 04:01:05.277376
+
+系统无更新2015-04-28 04:30:03.241456
+
+系统无更新2015-04-28 05:01:03.671569
+
+系统无更新2015-04-28 05:30:03.604649
+
+系统无更新2015-04-28 06:01:03.431263
+
+系统无更新2015-04-28 06:30:03.416968
+
+系统无更新2015-04-28 07:01:03.822731
+
+系统无更新2015-04-28 07:30:03.689360
+
+系统无更新2015-04-28 08:01:04.008862
+
+系统无更新2015-04-28 08:30:03.015825
+
+系统无更新2015-04-28 09:01:09.719370
+
+系统无更新2015-04-28 09:30:03.827594
+
+系统无更新2015-04-28 10:01:03.891361
+
+系统无更新2015-04-28 10:30:04.290353
+
+系统无更新2015-04-28 11:01:03.530297
+
+系统无更新2015-04-28 11:30:03.593751
+
+系统无更新2015-04-28 12:01:05.524394
+
+系统无更新2015-04-28 12:30:04.145958
+
+系统无更新2015-04-28 13:01:03.526364
+
+系统无更新2015-04-28 13:30:03.525380
+
+系统无更新2015-04-28 14:01:04.760683
+
+系统无更新2015-04-28 14:30:04.322134
+
+系统无更新2015-04-28 15:01:03.818566
+
+系统更新完毕更新内容：[FIX] web: see selection didn't show selection
+
+This fix gives the domain to the "See selection" view opened from a
+FieldCharDomain.
+
+In Odoo 8.0, this widget is available at two places:
+
+- mass_mailing: Marketing > Mass Mailing | Mass Mailing > (any
+  newsletter) > "See selection".
+
+- gamification: Settings > Gamification Tools > Challenge > (any
+  challenge) > "See selection".
+
+With this fix the "Selected records" view display selected records.
+
+closes #6463
+opw-6332012015-04-28 15:31:21.100161
+
+系统更新完毕更新内容：[I18N] Sync 8.0 translations from Launchpad2015-04-28 16:03:17.559860
+
+系统无更新2015-04-28 16:30:04.750025
+
+系统无更新2015-04-28 17:01:03.784156
+
+系统更新完毕更新内容：[FIX] account: Display Taxes
+
+The function _unite_compute and _unit_compute_inv did not give the same display result.
+Regardless the way the tax is computed, the display must be the same. The display must
+only shows the name of the tax.
+
+opw:6338282015-04-28 17:31:31.208774
+
+系统无更新2015-04-28 18:01:04.360920
+
+系统无更新2015-04-28 18:30:03.873882
+
+系统无更新2015-04-28 19:01:04.431911
+
+系统无更新2015-04-28 19:30:03.687871
+
+系统无更新2015-04-28 20:01:04.077371
+
+系统无更新2015-04-28 20:30:03.511727
+
+系统无更新2015-04-28 21:01:07.027602
+
+系统无更新2015-04-28 21:30:03.184726
+
+系统更新完毕更新内容：[FIX] payment: remove extra field.
+
+Commit 8a6e859 wrongly introduced this new field when adding the new
+`payment_authorize` module.
+As 8.0 is a [stable version](http://git.io/vfACM), no data model change
+is allowed.
+
+We convert this field to a `fields.dummy` in case someone installed (or
+update) this module with this fields to ensure the view still applied
+and is not broken.2015-04-28 22:02:29.600027
+
+系统更新完毕更新内容：[FIX] sale_crm: SO created from opportunity in wrong language
+
+The onchange partner on the sale.order set the 'note' field as the terms of the
+company in the partner's language.
+When the SO is created from an opportunity, the terms are not translated.
+Call get_salenote method that handles patner's language.2015-04-28 22:31:14.626313
+
+系统更新完毕更新内容：Adding teclib CLA2015-04-28 23:02:19.077106
+
+系统无更新2015-04-28 23:30:04.352012
+
+系统无更新2015-04-29 00:01:03.356703
+
+系统无更新2015-04-29 00:30:03.342187
+
+系统无更新2015-04-29 01:01:16.008773
+
+系统无更新2015-04-29 01:30:03.086977
+
+系统无更新2015-04-29 02:01:03.001796
+
+系统无更新2015-04-29 02:30:02.950339
+
+系统无更新2015-04-29 03:01:05.520062
+
+系统无更新2015-04-29 03:30:04.726262
+
+系统无更新2015-04-29 04:01:03.585121
+
+系统无更新2015-04-29 04:30:04.087458
+
+系统无更新2015-04-29 05:01:03.230742
+
+系统无更新2015-04-29 05:30:04.381420
+
+系统无更新2015-04-29 06:01:03.436667
+
+系统无更新2015-04-29 06:30:03.843266
+
+系统无更新2015-04-29 07:01:03.909293
+
+系统无更新2015-04-29 07:30:03.925853
+
+系统无更新2015-04-29 08:01:04.296177
+
+系统无更新2015-04-29 08:30:03.246114
+
+系统无更新2015-04-29 09:01:03.518323
+
+系统无更新2015-04-29 09:30:03.711142
+
+系统无更新2015-04-29 10:01:03.903523
+
+系统无更新2015-04-29 10:30:04.331406
+
+系统无更新2015-04-29 11:01:03.318104
+
+系统无更新2015-04-29 11:30:04.741814
+
+系统无更新2015-04-29 12:01:03.648426
+
+系统无更新2015-04-29 12:30:04.411923
+
+系统无更新2015-04-29 13:01:03.887687
+
+系统无更新2015-04-29 13:30:05.328877
+
+系统更新完毕更新内容：[FIX] website_blog: don't add background from backend
+
+Adding an image from the frontend use ir.attachment or pre-existing url
+and set the url in the blog.post's background_image field. This is
+not the same as a binary field which sets the data in the field.
+
+Since it's possible to do it in the frontend, there is no use of the
+field in the backend. This fix removes this field.
+
+closes #6497
+issue #1305
+opw-6337252015-04-29 14:02:23.962839
+
+系统无更新2015-04-29 14:30:04.870369
+
+系统无更新2015-04-29 15:01:10.112370
+
+系统无更新2015-04-29 15:30:03.458218
+
+系统无更新2015-04-29 16:01:03.835856
+
+系统更新完毕更新内容：[IMP] website: improved tours error message and race conditions2015-04-29 16:31:37.321178
+
+系统更新完毕更新内容：[REF] Add a hook for import fake fields
+
+Used during records extraction phase of import (CSV)
+
+closes #61882015-04-29 17:03:12.877218
+
+系统更新完毕更新内容：[FIX] website: edit menu
+
+when closing a modal, the class 'modal-open' was removed from the
+'body' tag and all the existing modals became not scrollable.
+The class 'modal-open' must be kept in the 'body' tag if there is
+still a visible modal in the dom.
+Inspired from commit: dee000be14fd55f7d287eee8569f769505f339ac
+
+opw:6338012015-04-29 17:31:18.334088
+
+系统无更新2015-04-29 18:01:04.034864
+
+系统无更新2015-04-29 18:30:03.100881
+
+系统无更新2015-04-29 19:01:03.217466
+
+系统无更新2015-04-29 19:30:03.741846
+
+系统更新完毕更新内容：[FIX] crm_profiling: answers order in view.
+
+colspan on separator is ignored so the answers are not grouped
+Fixes #62262015-04-29 20:02:21.728461
+
+系统更新完毕更新内容：[FIX] website: ir_http - auto redirect for lang, use cookies to save pref language
+
+Save in cookie the last lang selected to allow to stay consistent at the next visit from visitor2015-04-29 20:31:41.323440
+
+系统无更新2015-04-29 21:01:04.791908
+
+系统无更新2015-04-29 21:30:04.972741
+
+系统无更新2015-04-29 22:01:03.649796
+
+系统无更新2015-04-29 22:30:03.645985
+
+系统无更新2015-04-29 23:01:04.407240
+
+系统无更新2015-04-29 23:30:03.644995
+
+系统无更新2015-04-30 00:01:03.639035
+
+系统无更新2015-04-30 00:30:04.205732
+
+系统更新完毕更新内容：[FIX] stock: better recomputation of pack operations
+
+Revert c06a96 "[FIX] stock: force recomputing transfer information on picking"
+and unlink packoperations only when move lines are changed (fix opw 620636).
+
+c06a96 introduced a regression as it prevents to plan moves (e.g. assigning lots
+through the barcode interface) before the reception.2015-04-30 01:02:17.695605
+
+系统无更新2015-04-30 01:30:03.874854
+
+系统无更新2015-04-30 02:01:04.039980
+
+系统无更新2015-04-30 02:30:03.342606
+
+系统无更新2015-04-30 03:01:03.690960
+
+系统无更新2015-04-30 03:30:03.833941
+
+系统无更新2015-04-30 04:01:04.103758
+
+系统无更新2015-04-30 04:30:04.280934
+
+系统无更新2015-04-30 05:01:03.256466
+
+系统无更新2015-04-30 05:30:03.282311
+
+系统无更新2015-04-30 06:01:03.428944
+
+系统无更新2015-04-30 06:30:03.314740
+
+系统无更新2015-04-30 07:01:03.673669
+
+系统无更新2015-04-30 07:30:03.639043
+
+系统更新完毕更新内容：[FIX] account.invoice.report: performance problem in currency rate computation
+
+The SQL view implementing the "Invoice Analysis" report
+JOINs the res.currency.rate table in order to obtain the
+correct currency rate to convert each invoice line amount
+in the same currency.
+
+The matching of the rate needs to be done on the date
+of that rate (`name` column) - the last rate preceding
+the invoice date is presumed to be the right one.
+However there is no simple way to make a direct JOIN between
+account.invoice.line and res.currency.rate with a single
+match, without using an ORDER BY clause and LIMIT 1.
+This requires a costly SUBSELECT query for each invoice
+line, quickly becoming prohibitive.
+
+Through the use of PostgreSQL's Common Table Expressions
+(CTE) it is possible to construct a temporary table
+with the rates' start and end date of application.
+This temporary table can then be used in a direct
+JOIN with account.invoice.line, delivering much better
+performance (no SUBSELECT needed for each invoice line)
+
+On a database with 50k invoice lines this makes invoice
+analysis return results in less than 800 ms instead of
+10+ seconds.2015-04-30 08:02:17.719245
+
+系统无更新2015-04-30 08:30:04.483625
+
+系统无更新2015-04-30 09:01:03.777145
+
+系统无更新2015-04-30 09:30:03.801773
+
+系统无更新2015-04-30 10:01:03.899528
+
+系统无更新2015-04-30 10:30:03.986219
+
+系统无更新2015-04-30 11:01:02.990166
+
+系统无更新2015-04-30 11:30:03.397362
+
+系统无更新2015-04-30 12:01:14.232654
+
+系统无更新2015-04-30 12:30:03.572474
+
+系统无更新2015-04-30 13:01:03.526461
+
+系统无更新2015-04-30 13:30:03.707219
+
+系统无更新2015-04-30 14:01:03.912244
+
+系统无更新2015-04-30 14:30:03.843681
+
+系统无更新2015-04-30 15:01:04.219148
+
+系统更新完毕更新内容：[CLA] iris-solutions2015-04-30 15:31:25.819448
+
+系统更新完毕更新内容：[ADD] links to inventory mementoes2015-04-30 16:02:04.452614
+
+系统无更新2015-04-30 16:30:04.483376
+
+系统无更新2015-04-30 17:01:03.811338
+
+系统无更新2015-04-30 17:30:03.971662
+
+系统无更新2015-04-30 18:01:06.403431
+
+系统无更新2015-04-30 18:30:04.224098
+
+系统无更新2015-04-30 19:01:03.747717
+
+系统无更新2015-04-30 19:30:04.517705
+
+系统无更新2015-04-30 20:01:03.440026
+
+系统更新完毕更新内容：[FIX] payment_adyen: pspReference is not mandatory
+
+Indeed, when canceling a transaction, pspReference
+is not passed.
+
+In such a case, the arg authResult is set to
+`CANCELLED`, and in such a case, we should
+just bypass the form_feedback, as done in
+the payment_paypal module.
+
+opw-6342102015-04-30 20:31:35.990549
+
+系统无更新2015-04-30 21:01:03.926642
+
+系统无更新2015-04-30 21:30:04.541491
+
+系统更新完毕更新内容：[MERGE] forward port of branch saas-3 up to e552e092015-04-30 22:02:15.328130
+
+系统无更新2015-04-30 22:30:05.244598
+
+系统无更新2015-04-30 23:01:05.941562
+
+系统无更新2015-04-30 23:30:04.099103
+
+系统无更新2015-05-01 00:01:03.530336
+
+系统无更新2015-05-01 00:30:06.233605
+
+系统无更新2015-05-01 01:01:04.021313
+
+系统无更新2015-05-01 01:30:03.732811
+
+系统无更新2015-05-01 02:01:03.803359
+
+系统无更新2015-05-01 02:30:04.072241
+
+系统无更新2015-05-01 03:01:03.277265
+
+系统无更新2015-05-01 03:30:03.232907
+
+系统无更新2015-05-01 04:01:03.155885
+
+系统无更新2015-05-01 04:30:03.091843
+
+系统无更新2015-05-01 05:01:03.094068
+
+系统无更新2015-05-01 05:30:03.238655
+
+系统无更新2015-05-01 06:01:03.280609
+
+系统无更新2015-05-01 06:30:04.084317
+
+系统无更新2015-05-01 07:01:03.303018
+
+系统无更新2015-05-01 07:30:03.274689
+
+系统无更新2015-05-01 08:01:03.217707
+
+系统无更新2015-05-01 08:30:05.068368
+
+系统无更新2015-05-01 09:01:03.363367
+
+系统无更新2015-05-01 09:30:03.229548
+
+系统无更新2015-05-01 10:01:03.628730
+
+系统无更新2015-05-01 10:30:03.662230
+
+系统无更新2015-05-01 11:01:04.799500
+
+系统无更新2015-05-01 11:30:03.805842
+
+系统无更新2015-05-01 12:01:04.248912
+
+系统无更新2015-05-01 12:30:03.518892
+
+系统无更新2015-05-01 13:01:03.598661
+
+系统无更新2015-05-01 13:30:04.856620
+
+系统无更新2015-05-01 14:01:03.899618
+
+系统无更新2015-05-01 14:30:07.750293
+
+系统无更新2015-05-01 15:01:17.481373
+
+系统无更新2015-05-01 15:30:03.630438
+
+系统无更新2015-05-01 16:01:05.124921
+
+系统无更新2015-05-01 16:30:03.584440
+
+系统无更新2015-05-01 17:01:03.599407
+
+系统无更新2015-05-01 17:34:10.386183
+
+系统无更新2015-05-01 18:01:25.520983
+
+系统无更新2015-05-01 18:30:18.828806
+
+系统无更新2015-05-01 19:01:03.889093
+
+系统无更新2015-05-01 19:30:04.198677
+
+系统无更新2015-05-01 20:01:03.423048
+
+系统无更新2015-05-01 20:30:03.454020
+
+系统无更新2015-05-01 21:01:05.062631
+
+系统无更新2015-05-01 21:30:03.805092
+
+系统无更新2015-05-01 22:01:08.106657
+
+系统无更新2015-05-01 22:30:03.876668
+
+系统无更新2015-05-01 23:01:04.905504
+
+系统无更新2015-05-01 23:30:04.127526
+
+系统无更新2015-05-02 00:01:03.589931
+
+系统无更新2015-05-02 00:30:03.532582
+
+系统无更新2015-05-02 01:01:03.470023
+
+系统无更新2015-05-02 01:30:03.756955
+
+系统无更新2015-05-02 02:01:03.856516
+
+系统无更新2015-05-02 02:30:03.891597
+
+系统无更新2015-05-02 03:01:04.073710
+
+系统无更新2015-05-02 03:30:02.988308
+
+系统无更新2015-05-02 04:01:03.136769
+
+系统无更新2015-05-02 04:30:03.134208
+
+系统无更新2015-05-02 05:01:03.291399
+
+系统无更新2015-05-02 05:30:03.473548
+
+系统无更新2015-05-02 06:01:03.448771
+
+系统无更新2015-05-02 06:30:03.803404
+
+系统无更新2015-05-02 07:01:03.860196
+
+系统无更新2015-05-02 07:30:04.044281
+
+系统无更新2015-05-02 08:01:03.274266
+
+系统无更新2015-05-02 08:30:03.242906
+
+系统无更新2015-05-02 09:01:03.398960
+
+系统无更新2015-05-02 09:30:05.058532
+
+系统无更新2015-05-02 10:01:03.515572
+
+系统无更新2015-05-02 10:30:04.338278
+
+系统无更新2015-05-02 11:01:03.759335
+
+系统无更新2015-05-02 11:30:05.138731
+
+系统无更新2015-05-02 12:01:03.123858
+
+系统无更新2015-05-02 12:30:04.942824
+
+系统无更新2015-05-02 13:01:05.102928
+
+系统无更新2015-05-02 13:30:05.160414
+
+系统无更新2015-05-02 14:01:05.144423
+
+系统无更新2015-05-02 14:30:04.534719
+
+系统无更新2015-05-02 15:01:04.060853
+
+系统无更新2015-05-02 15:30:03.184026
+
+系统无更新2015-05-02 16:01:04.039358
+
+系统无更新2015-05-02 16:30:06.568274
+
+系统无更新2015-05-02 17:01:04.777052
+
+系统无更新2015-05-02 17:30:03.748611
+
+系统无更新2015-05-02 18:01:03.944353
+
+系统无更新2015-05-02 18:30:05.632083
+
+系统无更新2015-05-02 19:01:15.718561
+
+系统无更新2015-05-02 19:30:03.620299
+
+系统无更新2015-05-02 20:01:03.605419
+
+系统无更新2015-05-02 20:30:07.898577
+
+系统无更新2015-05-02 21:01:06.586315
+
+系统无更新2015-05-02 21:30:03.829008
+
+系统无更新2015-05-02 22:01:06.230123
+
+系统无更新2015-05-02 22:30:04.307390
+
+系统无更新2015-05-02 23:01:04.268906
+
+系统无更新2015-05-02 23:30:03.140819
+
+系统无更新2015-05-03 00:01:02.942911
+
+系统无更新2015-05-03 00:30:03.988668
+
+系统无更新2015-05-03 01:01:02.884574
+
+系统无更新2015-05-03 01:30:04.001179
+
+系统无更新2015-05-03 02:01:02.905809
+
+系统无更新2015-05-03 02:30:04.262141
+
+系统无更新2015-05-03 03:01:03.400130
+
+系统无更新2015-05-03 03:30:03.392270
+
+系统无更新2015-05-03 04:01:03.481200
+
+系统无更新2015-05-03 04:30:03.688574
+
+系统无更新2015-05-03 05:01:03.652590
+
+系统无更新2015-05-03 05:30:04.513277
+
+系统无更新2015-05-03 06:01:03.637155
+
+系统无更新2015-05-03 06:30:03.701648
+
+系统无更新2015-05-03 07:01:03.639063
+
+系统无更新2015-05-03 07:30:03.892230
+
+系统无更新2015-05-03 08:01:04.058615
+
+系统无更新2015-05-03 08:30:03.044125
+
+系统无更新2015-05-03 09:01:03.294467
+
+系统无更新2015-05-03 09:30:03.592681
+
+系统无更新2015-05-03 10:01:03.766475
+
+系统无更新2015-05-03 10:30:03.778685
+
+系统无更新2015-05-03 11:01:04.959403
+
+系统无更新2015-05-03 11:30:04.226069
+
+系统无更新2015-05-03 12:01:03.206991
+
+系统无更新2015-05-03 12:30:03.664392
+
+系统无更新2015-05-03 13:01:04.172635
+
+系统无更新2015-05-03 13:30:03.583150
+
+系统无更新2015-05-03 14:01:08.200930
+
+系统无更新2015-05-03 14:30:03.811221
+
+系统无更新2015-05-03 15:01:09.840033
+
+系统无更新2015-05-03 15:30:10.736215
+
+系统无更新2015-05-03 16:01:04.118738
+
+系统无更新2015-05-03 16:31:14.740984
+
+系统无更新2015-05-03 17:01:04.936813
+
+系统无更新2015-05-03 17:30:04.338438
+
+系统无更新2015-05-03 18:01:03.733912
+
+系统无更新2015-05-03 18:30:04.844331
+
+系统无更新2015-05-03 19:01:04.016511
+
+系统无更新2015-05-03 19:30:03.843781
+
+系统无更新2015-05-03 20:01:10.332191
+
+系统无更新2015-05-03 20:30:03.969473
+
+系统无更新2015-05-03 21:01:04.040730
+
+系统无更新2015-05-03 21:30:08.193403
+
+系统无更新2015-05-03 22:01:06.114931
+
+系统无更新2015-05-03 22:30:09.444261
+
+系统无更新2015-05-03 23:01:03.717931
+
+系统无更新2015-05-03 23:30:04.800756
+
+系统无更新2015-05-04 00:01:04.215166
+
+系统无更新2015-05-04 00:30:03.175050
+
+系统无更新2015-05-04 01:01:03.317968
+
+系统无更新2015-05-04 01:30:04.357318
+
+系统无更新2015-05-04 02:01:03.557052
+
+系统无更新2015-05-04 02:30:03.608049
+
+系统无更新2015-05-04 03:01:03.435134
+
+系统无更新2015-05-04 03:30:03.544175
+
+系统无更新2015-05-04 04:01:03.500912
+
+系统无更新2015-05-04 04:30:03.672275
+
+系统无更新2015-05-04 05:01:03.646541
+
+系统无更新2015-05-04 05:30:03.803147
+
+系统无更新2015-05-04 06:01:03.949378
+
+系统无更新2015-05-04 06:30:03.838764
+
+系统无更新2015-05-04 07:01:04.202163
+
+系统无更新2015-05-04 07:30:03.182600
+
+系统无更新2015-05-04 08:01:03.610260
+
+系统无更新2015-05-04 08:30:03.800454
+
+系统无更新2015-05-04 09:01:04.052819
+
+系统无更新2015-05-04 09:30:03.472291
+
+系统无更新2015-05-04 10:01:03.642361
+
+系统无更新2015-05-04 10:30:03.557955
+
+系统无更新2015-05-04 11:01:04.122590
+
+系统无更新2015-05-04 11:30:03.894346
+
+系统无更新2015-05-04 12:01:08.859855
+
+系统无更新2015-05-04 12:30:04.992470
+
+系统无更新2015-05-04 13:01:02.931848
+
+系统无更新2015-05-04 13:30:13.172065
+
+系统无更新2015-05-04 14:01:10.954008
+
+系统无更新2015-05-04 14:30:04.159220
+
+系统更新完毕更新内容：[FIX] stock_account: Current inventory valuation
+
+The "Current inventory valuation" report should only take the outgoing quants into account
+to compute the inventory value.
+
+opw:6323582015-05-04 15:02:26.628129
+
+系统无更新2015-05-04 15:30:04.735091
+
+系统无更新2015-05-04 16:01:04.614144
+
+系统无更新2015-05-04 16:30:14.949777
+
+系统更新完毕更新内容：[FIX] point_of_sale: sale details, start/end date with user tz
+
+opw-6339982015-05-04 17:02:07.869197
+
+系统无更新2015-05-04 17:30:04.412474
+
+系统更新完毕更新内容：[FIX] search: searching fields.property not set
+
+When searching if a many2one property field is not set, there may be less
+results since only the ones with a reference set to NULL are returned.
+We should also get those not in the table.
+
+This commit change this case so instead of returning ['id', 'in', {matching non-set ids}],
+the ['id', 'not in', {matching set ids}] is returned.
+
+e.g: if (1, 3, 8) are set, (5, 9) are not set. ['id', 'not in', (1, 3, 8)] would
+be returned instead of ['id', 'in', (5, 9)] which might not select all non-set
+property fields.
+
+closes #6044
+opw-6310572015-05-04 18:02:07.183345
+
+系统更新完毕更新内容：[FIX] web_graph: graduations on Y axe
+
+For bar chart, the graduations along Y axe must be in language format
+of the user.
+
+opw:6316592015-05-04 18:30:55.891269
+
+系统无更新2015-05-04 19:01:04.588246
+
+系统无更新2015-05-04 19:30:04.430838
+
+系统更新完毕更新内容：[FIX] models: Always use MissingError when a document is missing
+
+As done in write and already in next version (see 0fd773a), accessing a deleted
+record (through read or check access rights) should always return a MissingError
+instead of the generic except_orm.
+This will allow code ignoring deleted record (e.g. 'recompute' method) to safely
+process the other records.
+Fixes #61052015-05-04 20:02:18.510475
+
+系统无更新2015-05-04 20:30:07.165521
+
+系统更新完毕更新内容：[FIX] auth_ldap: anonymous connection
+
+LDAP allows anonymous authentication with no password. In such case
+conf['ldap_password'] is None so converting would fail.
+Fixes #57632015-05-04 21:02:16.700134
+
+系统更新完毕更新内容：[FIX] hr_timesheet_invoice: untranslated warning message2015-05-04 21:31:35.847502
+
+系统无更新2015-05-04 22:01:04.850669
+
+系统无更新2015-05-04 22:30:04.615661
+
+系统更新完毕更新内容：[ADD] base: Kabyle language
+
+Add a new language: Kabyle language2015-05-04 23:31:19.328558
+
+系统无更新2015-05-05 00:01:05.147154
+
+系统更新完毕更新内容：[FIX] stock: procurement set as done of sets bom.
+
+In the case of sets, several stock moves can have
+the same procurement.
+
+Therefore, appending procurements in the list `procurement_ids`
+without checking if the procurement isn't already in the list
+could lead to having several times the same
+procurement in that list,
+and could therefore lead to the check of the same procurement
+over and over, leading to performances issues and the fact you cannot
+call `write` on a list having several times the same id.
+See models.py 3875
+
+Using a set instead of a list solve this issue
+
+opw-6343932015-05-05 00:31:19.850987
+
+系统无更新2015-05-05 01:01:04.257390
+
+系统无更新2015-05-05 01:30:03.388347
+
+系统无更新2015-05-05 02:01:03.256465
+
+系统无更新2015-05-05 02:30:03.691523
+
+系统无更新2015-05-05 03:01:03.636998
+
+系统无更新2015-05-05 03:30:03.768967
+
+系统无更新2015-05-05 04:01:03.721003
+
+系统无更新2015-05-05 04:30:03.831930
+
+系统无更新2015-05-05 05:01:04.277587
+
+系统无更新2015-05-05 05:30:03.621794
+
+系统无更新2015-05-05 06:01:05.458432
+
+系统无更新2015-05-05 06:30:03.917706
+
+系统无更新2015-05-05 07:01:03.991920
+
+系统无更新2015-05-05 07:30:03.119124
+
+系统无更新2015-05-05 08:01:03.544135
+
+系统无更新2015-05-05 08:30:03.909476
+
+系统无更新2015-05-05 09:01:04.256715
+
+系统无更新2015-05-05 09:30:03.764660
+
+系统无更新2015-05-05 10:01:04.132981
+
+系统无更新2015-05-05 10:30:03.112774
+
+系统无更新2015-05-05 11:01:03.510188
+
+系统无更新2015-05-05 11:30:03.732366
+
+系统无更新2015-05-05 12:01:03.751797
+
+系统无更新2015-05-05 12:30:07.224582
+
+系统无更新2015-05-05 13:01:08.124760
+
+系统无更新2015-05-05 13:30:04.310024
+
+系统无更新2015-05-05 14:02:40.054613
+
+系统更新完毕更新内容：[FIX] report,qweb: use non-beaking space between amount and currency
+Fixes #6369
+opw-6339752015-05-05 14:31:30.498819
+
+系统无更新2015-05-05 15:01:04.108234
+
+系统无更新2015-05-05 15:30:03.952489
+
+系统无更新2015-05-05 16:01:03.275620
+
+系统更新完毕更新内容：[FIX] website: only consider valid languages in URL path
+
+Improves aea358ca67f88fa3fb13ac2766c5195223551d10 and avoid spurious
+redirects for URLs that do not match a controller but do not
+have a valid language.
+
+When the URL does not match any controller, the language
+matcher tried to strip the leading path component, treating
+it as a language code. For example:
+    /fr_BE/page/homepage
+would not match any route, so it would be rerouted internally
+as  /page/homepage, after setting `request.lang` to fr_BE.
+
+This breaks the magical 404 handler that allows ir.attachment
+entries to be mapped to static URLs. Due to the internal rerouting,
+the mapping of e.g. /website_mycompany/static/src/image/logo.png
+would be rerouted to /static/src/image/logo.png and not match
+the mapped URL anymore.
+
+Now the stripping of the path component will only occur if
+that path component matches an installed language code.
+
+The consequence is that URLs containing uninstalled language codes
+will now lead to 404 errors - an acceptable trade-off (e.g.
+when an older version of the website is still indexed by a search
+engine)2015-05-05 16:31:22.711752
+
+系统更新完毕更新内容：[IMP] ir_http: add facebookinternalhit in the list of bot.
+
+Avoid redirect in en_US if lang is installed  when a link is added via Facebook2015-05-05 17:02:17.225530
+
+系统无更新2015-05-05 17:30:05.156132
+
+系统更新完毕更新内容：[CLA] sign for belkacem772015-05-05 18:02:04.540996
+
+系统无更新2015-05-05 18:30:04.034716
+
+系统更新完毕更新内容：[FIX] account: bank reconciliation widget: correctly set the 'New' button a new line (continuation of bf9544d7d430704efd006cca182a7120a55a0c8a)2015-05-05 19:02:04.783049
+
+系统无更新2015-05-05 19:30:05.386199
+
+系统无更新2015-05-05 20:01:06.168504
+
+系统无更新2015-05-05 20:30:03.723186
+
+系统更新完毕更新内容：[FIX] mass_mailing: create an index on mail_mail_statisctics.mail_mail_id
+
+As deletion of mail.mail records is frequent, we need to have an index
+on this column to speed up deletion2015-05-05 21:02:24.788384
+
+系统无更新2015-05-05 21:30:22.094572
+
+系统无更新2015-05-05 22:01:03.691946
+
+系统无更新2015-05-05 22:30:07.839430
+
+系统无更新2015-05-05 23:01:04.578793
+
+系统更新完毕更新内容：[FIX] mrp: default sequence on bom line
+
+To avoid null sequence
+Fixes #60742015-05-05 23:31:23.142917
+
+系统更新完毕更新内容：[MERGE] forward port of branch saas-3 up to ae634e72015-05-06 00:02:20.422851
+
+系统无更新2015-05-06 00:30:07.517053
+
+系统无更新2015-05-06 01:01:03.721975
+
+系统无更新2015-05-06 01:30:10.516659
+
+系统无更新2015-05-06 02:01:04.210639
+
+系统无更新2015-05-06 02:30:03.175152
+
+系统无更新2015-05-06 03:01:03.361436
+
+系统无更新2015-05-06 03:30:03.857102
+
+系统无更新2015-05-06 04:01:04.143334
+
+系统无更新2015-05-06 04:30:03.119201
+
+系统无更新2015-05-06 05:01:03.088506
+
+系统无更新2015-05-06 05:30:03.289855
+
+系统无更新2015-05-06 06:01:03.763637
+
+系统无更新2015-05-06 06:30:03.353843
+
+系统无更新2015-05-06 07:01:03.359886
+
+系统无更新2015-05-06 07:30:03.382622
+
+系统无更新2015-05-06 08:01:05.951866
+
+系统无更新2015-05-06 08:30:04.297828
+
+系统无更新2015-05-06 09:01:03.273677
+
+系统无更新2015-05-06 09:30:03.286742
+
+系统无更新2015-05-06 10:01:03.441393
+
+系统无更新2015-05-06 10:30:03.951762
+
+系统无更新2015-05-06 11:01:04.323871
+
+系统无更新2015-05-06 11:30:03.758633
+
+系统无更新2015-05-06 12:01:05.933886
+
+系统无更新2015-05-06 12:30:03.858023
+
+系统无更新2015-05-06 13:01:04.245668
+
+系统无更新2015-05-06 13:30:03.740733
+
+系统无更新2015-05-06 14:01:03.675660
+
+系统无更新2015-05-06 14:30:04.709902
+
+系统无更新2015-05-06 15:01:04.486872
+
+系统更新完毕更新内容：[FIX] registry: recompute `pure_function_fields` after every setup
+
+The lazy property `pure_function_fields` was not invalidated upon every setup
+of models, and hence could contain old instances of fields.  As every model
+setup re-creates instances of fields, the property has to be recomputed.2015-05-06 15:31:26.502253
+
+系统更新完毕更新内容：[FIX] registry: recompute `pure_function_fields` after every setup
+
+The lazy property `pure_function_fields` was not invalidated upon every setup
+of models, and hence could contain old instances of fields.  As every model
+setup re-creates instances of fields, the property has to be recomputed.2015-05-06 16:11:11.119009
+
+系统更新完毕更新内容：[FIX] registry: recompute `pure_function_fields` after every setup
+
+The lazy property `pure_function_fields` was not invalidated upon every setup
+of models, and hence could contain old instances of fields.  As every model
+setup re-creates instances of fields, the property has to be recomputed.2015-05-06 16:20:20.017880
+
+系统无更新2015-05-06 16:45:03.966549
+
+系统无更新2015-05-06 17:15:03.338106
+
+系统无更新2015-05-06 17:45:06.431861
+
+系统无更新2015-05-06 18:15:21.509398
+
+系统无更新2015-05-06 18:45:06.211091
+
+系统无更新2015-05-06 19:17:17.583168
+
+系统更新完毕更新内容：[FIX] point_of_sale: products search with ':' in products names
+
+This is related to revision bb913d0.
+
+':' in product names are removed, to avoid issues when
+searching products with ':' in their name.
+
+JS replace method only replaces the first occurence, if the
+needle isn't set as a regex with 'g', e.g. /':'/g
+
+opw-6345472015-05-06 20:16:16.871892
+
+系统无更新2015-05-06 20:45:04.475213
+
+系统无更新2015-05-06 21:15:06.509379
+
+系统更新完毕更新内容：[FIX] website_quote: use sale description for options lines
+
+Use the sale description for suggesteds items.
+
+So when seeing suggesteds items in a quotation, we so the sale description
+(if there is one) next to the product name.
+
+It was already done for contained items, but not for the suggested ones.
+
+closes #6565
+opw-6345072015-05-06 21:46:16.255819
+
+系统无更新2015-05-06 22:15:04.071822
+
+系统无更新2015-05-06 22:45:03.584263
+
+系统更新完毕更新内容：[CLA] individual signature for shingonoide2015-05-07 00:16:21.079637
+
+系统更新完毕更新内容：[FIX] account: Exchanges rates gain/loss during reconciliations
+
+When processing the reconciliation of a bank statement
+within the company currency with an invoice in a foreign currency,
+avoid to recompute the bank statement debit / credit within
+the currency rate at the time of the invoice when the
+`amount_currency` of the bank statement line and the `amount_currency`
+of the invoice move line are the same
+(while having the invoice move line and the
+bank statement move line in the same currency,
+and having the bank statement currency and
+the company currency the same),
+to prevent gain/loss exchanges during currencies conversion.
+
+Computing the amount of the statement line
+within the currency of the invoice is useful
+to compute the difference of amount paid within the company currency
+when a change of currency rates occured between the invoice date
+and the date of the payment.
+
+Nevertheless, recomputing the amount in the currency of the company
+is useless when the payment currency
+and the company currency are the same,
+and the amount of the invoice and the statement in the foreign currency
+are identical, since the amount is already computed, within the
+debit/credit field of the invoice move line.
+
+Besides, this prevents gain/loss changes.
+opw-631748
+opw-632133
+opw-631895
+closes #65592015-05-07 00:45:58.974476
+
+系统无更新2015-05-07 01:15:04.357351
+
+系统无更新2015-05-07 01:45:03.354223
+
+系统无更新2015-05-07 02:15:03.417400
+
+系统无更新2015-05-07 03:15:03.838967
+
+系统无更新2015-05-07 03:45:02.983016
+
+系统无更新2015-05-07 04:15:04.030518
+
+系统无更新2015-05-07 04:45:04.045292
+
+系统无更新2015-05-07 05:15:03.226976
+
+系统无更新2015-05-07 05:45:05.335450
+
+系统无更新2015-05-07 06:15:04.385588
+
+系统无更新2015-05-07 06:45:03.598481
+
+系统无更新2015-05-07 07:15:03.894063
+
+系统无更新2015-05-07 07:45:03.701961
+
+系统无更新2015-05-07 08:15:03.637076
+
+系统无更新2015-05-07 08:45:03.656466
+
+系统无更新2015-05-07 09:15:04.602560
+
+系统无更新2015-05-07 09:45:03.805397
+
+系统无更新2015-05-07 10:15:03.050177
+
+系统无更新2015-05-07 10:45:03.107360
+
+系统无更新2015-05-07 11:15:03.329325
+
+系统更新完毕更新内容：[FIX] account: Exchanges rates gain/loss during reconciliations
+
+When processing the reconciliation of a bank statement
+within the company currency with an invoice in a foreign currency,
+avoid to recompute the bank statement debit / credit within
+the currency rate at the time of the invoice when the
+`amount_currency` of the bank statement line and the `amount_currency`
+of the invoice move line are the same
+(while having the invoice move line and the
+bank statement move line in the same currency,
+and having the bank statement currency and
+the company currency the same),
+to prevent gain/loss exchanges during currencies conversion.
+
+Computing the amount of the statement line
+within the currency of the invoice is useful
+to compute the difference of amount paid within the company currency
+when a change of currency rates occured between the invoice date
+and the date of the payment.
+
+Nevertheless, recomputing the amount in the currency of the company
+is useless when the payment currency
+and the company currency are the same,
+and the amount of the invoice and the statement in the foreign currency
+are identical, since the amount is already computed, within the
+debit/credit field of the invoice move line.
+
+Besides, this prevents gain/loss changes.
+opw-631748
+opw-632133
+opw-631895
+closes #65592015-05-07 11:40:09.199652
+
+系统无更新2015-05-07 11:45:03.992479
+
+系统无更新2015-05-07 12:15:24.628155
+
+系统无更新2015-05-07 12:45:03.715501
+
+系统无更新2015-05-07 13:45:03.147191
+
+本次运行时间：2015-05-07 13:49:04.414438
+
+系统无更新2015-05-07 13:49:06.965192
+
+本次运行时间：2015-05-07 14:15:01.518778
+
+系统无更新2015-05-07 14:15:04.032954
+
+本次运行时间：2015-05-07 14:45:01.397250
+
+本次运行时间：2015-05-07 15:15:02.023072
+
+系统更新完毕更新内容：[FIX] mass_mailing: mismastched mailing list view name
+
+opw-6346932015-05-07 15:16:13.174706
+
+本次运行时间：2015-05-07 15:45:01.821324
+
+系统无更新2015-05-07 15:45:03.910192
+
+本次运行时间：2015-05-07 16:15:01.284508
+
+系统无更新2015-05-07 16:15:04.155171
+
+本次运行时间：2015-05-07 16:45:01.517491
+
+系统无更新2015-05-07 16:45:03.652825
+
+本次运行时间：2015-05-07 17:15:02.018096
+
+本次运行时间：2015-05-07 17:45:01.239701
+
+系统更新完毕更新内容：[MERGE] forward port of branch saas-3 up to da939812015-05-07 17:46:17.745576
+
+本次运行时间：2015-05-07 18:15:02.586791
+
+系统无更新2015-05-07 18:15:06.029151
+
+本次运行时间：2015-05-07 18:45:01.397925
+
+系统更新完毕更新内容：[FIX] sale_layout: access rights 0 instead of O
+
+Typo in ir.model.access with a letter instead of a number. 'O' will be
+considered as True instead of '0' considered as False.2015-05-07 18:48:05.598197
+
+本次运行时间：2015-05-07 19:15:01.770078
+
+系统无更新2015-05-07 19:15:04.077259
+
+本次运行时间：2015-05-07 19:45:01.446703
+
+系统无更新2015-05-07 19:45:07.817205
+
+本次运行时间：2015-05-07 20:15:01.184177
+
+系统更新完毕更新内容：[FIX] stock: forbids possibility to make inventory of all products when a given product is chosen
+opw-634388
+Fixes #65122015-05-07 20:16:12.376826
+
+本次运行时间：2015-05-07 20:45:01.579724
+
+系统无更新2015-05-07 20:45:14.710232
+
+本次运行时间：2015-05-07 21:15:02.064419
+
+系统更新完毕更新内容：[IMP] logging: store logs in database in multi databases env.
+
+The server parameter `log-db` gives the possibility
+to store the logs of a server in a specific database,
+in the ir.logging model.
+
+Unfortunately, it wasn't possible to store these logs within
+the database from which the logs came from in a multi databases
+environment (e.g. the SAAS).
+
+This revision gives the possibility to store the logs
+within the database where the logs come from,
+using --log-db=%d (inspired from the --db-filter arg)
+
+We also added the possibility to change the level of logs to store in
+the database, with the --log-db-level argument, which is set
+by default to `warning`.2015-05-07 21:27:34.204471
+
+本次运行时间：2015-05-07 21:45:02.129144
+
+系统无更新2015-05-07 21:45:04.051410
+
+本次运行时间：2015-05-07 22:15:01.418146
+
+本次运行时间：2015-05-07 22:45:01.645067
+
+系统更新完毕更新内容：[FIX] im_livechat: date in website_livechat
+
+The lang of the date used in website_livechat must be
+the lang of the user as in "Instant Messaging".
+
+opw:6337462015-05-07 22:46:25.570172
+
+本次运行时间：2015-05-07 23:15:02.010182
+
+系统更新完毕更新内容：[FIX] fields: when determining `digits()`, make sure to use a valid cursor2015-05-07 23:16:13.722421
+
+本次运行时间：2015-05-07 23:45:01.593999
+
+系统无更新2015-05-07 23:45:05.380424
+
+本次运行时间：2015-05-08 00:15:01.753474
+
+系统无更新2015-05-08 00:15:04.041853
+
+本次运行时间：2015-05-08 00:45:01.403681
+
+系统更新完毕更新内容：[FIX] crm: hide mark won/lost buttons when opportunity is won
+
+When an opportunity has a 100% probability, it is regarded
+as won. When the opportunity is regarded as done,
+there is no more use to show the mark won/lost button.
+
+opw-6344202015-05-08 00:48:10.538918
+
+本次运行时间：2015-05-08 01:15:01.722030
+
+本次运行时间：2015-05-08 01:45:01.689297
+
+系统无更新2015-05-08 01:45:03.585612
+
+本次运行时间：2015-05-08 02:15:01.949818
+
+系统无更新2015-05-08 02:15:03.609900
+
+本次运行时间：2015-05-08 02:45:01.985203
+
+系统无更新2015-05-08 02:45:03.599784
+
+本次运行时间：2015-05-08 03:15:01.962989
+
+系统无更新2015-05-08 03:15:04.592305
+
+本次运行时间：2015-05-08 03:45:01.963431
+
+系统无更新2015-05-08 03:45:04.554459
+
+本次运行时间：2015-05-08 04:15:01.912071
+
+系统无更新2015-05-08 04:15:03.484100
+
+本次运行时间：2015-05-08 04:45:01.845348
+
+系统无更新2015-05-08 04:45:06.419205
+
+本次运行时间：2015-05-08 05:15:01.781479
+
+系统无更新2015-05-08 05:15:03.480135
+
+本次运行时间：2015-05-08 05:45:01.846197
+
+系统无更新2015-05-08 05:45:03.633296
+
+本次运行时间：2015-05-08 06:15:01.993896
+
+系统无更新2015-05-08 06:15:04.692803
+
+本次运行时间：2015-05-08 06:45:01.599024
+
+系统无更新2015-05-08 06:45:03.426563
+
+本次运行时间：2015-05-08 07:15:01.789948
+
+系统无更新2015-05-08 07:15:03.413238
+
+本次运行时间：2015-05-08 07:45:01.783264
+
+系统无更新2015-05-08 07:45:03.510511
+
+本次运行时间：2015-05-08 08:15:01.872926
+
+系统无更新2015-05-08 08:15:04.606454
+
+本次运行时间：2015-05-08 08:45:01.974617
+
+系统无更新2015-05-08 08:45:03.653563
+
+本次运行时间：2015-05-08 09:15:02.015849
+
+系统无更新2015-05-08 09:15:04.719768
+
+本次运行时间：2015-05-08 09:45:02.090818
+
+系统无更新2015-05-08 09:45:04.371765
+
+本次运行时间：2015-05-08 10:15:01.739744
+
+系统无更新2015-05-08 10:15:03.418045
+
+本次运行时间：2015-05-08 10:45:01.800876
+
+系统无更新2015-05-08 10:45:04.086157
+
+本次运行时间：2015-05-08 11:15:01.456445
+
+系统无更新2015-05-08 11:15:03.358095
+
+本次运行时间：2015-05-08 11:45:01.728953
+
+系统无更新2015-05-08 11:45:05.457358
+
+本次运行时间：2015-05-08 12:15:01.815874
+
+系统无更新2015-05-08 12:15:05.239526
+
+本次运行时间：2015-05-08 12:45:01.603188
+
+系统无更新2015-05-08 12:45:03.971422
+
+本次运行时间：2015-05-08 13:15:01.329892
+
+系统无更新2015-05-08 13:15:04.009626
+
+本次运行时间：2015-05-08 13:45:01.385202
+
+系统无更新2015-05-08 13:45:03.878795
+
+本次运行时间：2015-05-08 14:15:01.238177
+
+系统无更新2015-05-08 14:15:04.940532
+
+本次运行时间：2015-05-08 14:45:01.304478
+
+本次运行时间：2015-05-08 15:15:02.013334
+
+系统更新完毕更新内容：[FIX] mrp: Manufacture Order Sequence
+
+The name of the manufacture order created must include the sequence linked
+to the company of the salesperson.
+
+opw:6326002015-05-08 15:16:42.746367
+
+本次运行时间：2015-05-08 15:45:03.202607
+
+系统无更新2015-05-08 15:45:05.315126
+
+本次运行时间：2015-05-08 16:15:01.693128
+
+系统无更新2015-05-08 16:15:04.339083
+
+本次运行时间：2015-05-08 16:45:01.711645
+
+本次运行时间：2015-05-08 17:15:01.949050
+
+系统更新完毕更新内容：[FIX] website_membership: perf, pagination
+
+This fixes :
+ * pagination only on /members and sometimes with bad page count,
+ * free members could not be searched (were always all displayed),
+ * all elements are displayed even if there is a pagination,
+ * for members without country, errors happened in some use case,
+ * when too much locations were on a map (>2000) it failed,
+ * numbers of members by countries was not displayed for guest.
+
+And also as performance improvemnts:
+ * only query all partners when the map is enabled (customize > left
+   world map),
+ * limit partners put on the map to 2000 (even then it's a lot for
+   google maps),
+ * don't browse all membership_line to get res_partner but use a query.
+
+opw-6346532015-05-08 17:18:18.124224
+
+本次运行时间：2015-05-08 17:45:02.859209
+
+系统无更新2015-05-08 17:45:06.107890
+
+本次运行时间：2015-05-08 18:15:01.477411
+
+系统无更新2015-05-08 18:15:04.207801
+
+本次运行时间：2015-05-08 18:45:01.651201
+
+系统无更新2015-05-08 18:45:03.956023
+
+本次运行时间：2015-05-08 19:15:01.332196
+
+系统无更新2015-05-08 19:15:03.235240
+
+本次运行时间：2015-05-08 19:45:01.603372
+
+系统更新完毕更新内容：[FIX] hw_*: enforce Python dependencies + disable if missing dependency
+
+Prevents installing the hw_* modules at all when the python
+dependencies are missing. If they were already installed
+do not start the hardware threads to avoid wasting resources
+and logging errors2015-05-08 19:47:27.221900
+
+本次运行时间：2015-05-08 20:15:02.378091
+
+系统无更新2015-05-08 20:15:13.287084
+
+本次运行时间：2015-05-08 20:45:01.675011
+
+系统无更新2015-05-08 20:45:03.489589
+
+本次运行时间：2015-05-08 21:15:01.858609
+
+系统无更新2015-05-08 21:15:04.597641
+
+本次运行时间：2015-05-08 21:45:01.976106
+
+系统无更新2015-05-08 21:45:04.097275
+
+本次运行时间：2015-05-08 22:15:01.461026
+
+系统更新完毕更新内容：[FIX] account: Exchanges rates gain/loss during supplier reconciliations
+
+This revision is related to dd47b6f5bccfb43ee6fabb81effd16c940a020e0.
+
+The above revision was allmost correct, except that, in a supplier
+invoices, the `amount_currency` of the invoice is negative,
+and the one of the bank statement is possitive.
+
+To check that both are equal, we should subtract one to each other,
+and check that the diff is 0, but both part need to be the
+absolute value.
+
+opw-634263
+closes #65332015-05-08 22:16:25.343923
+
+本次运行时间：2015-05-08 22:45:02.819819
+
+系统更新完毕更新内容：[FIX] payment_adyen: live Adyen payment acquirer URL
+
+The production payment page of Adyen is not
+`https://prod.adyen.com/hpp/pay.shtml`
+but
+`https://live.adyen.com/hpp/pay.shtml`
+
+opw-6348942015-05-08 22:46:14.445467
+
+本次运行时间：2015-05-08 23:15:02.856413
+
+系统更新完毕更新内容：[FIX] sql_db: add `closed` property on `Cursor`.2015-05-08 23:18:41.299996
+
+本次运行时间：2015-05-08 23:45:02.009772
+
+系统无更新2015-05-08 23:45:04.172146
+
+本次运行时间：2015-05-09 00:15:01.544866
+
+系统无更新2015-05-09 00:15:04.520156
+
+本次运行时间：2015-05-09 00:45:01.894001
+
+系统无更新2015-05-09 00:45:04.846796
+
+本次运行时间：2015-05-09 01:15:01.205861
+
+系统更新完毕更新内容：[MERGE] forward port of branch saas-3 up to e2bfb962015-05-09 01:16:19.913990
+
+本次运行时间：2015-05-09 01:45:02.292921
+
+系统无更新2015-05-09 01:45:04.275973
+
+本次运行时间：2015-05-09 02:15:01.630683
+
+系统无更新2015-05-09 02:15:04.542125
+
+本次运行时间：2015-05-09 02:45:01.909671
+
+本次运行时间：2015-05-09 03:15:01.149812
+
+系统无更新2015-05-09 03:15:02.962845
+
+本次运行时间：2015-05-09 03:45:01.334364
+
+系统无更新2015-05-09 03:45:02.959532
+
+本次运行时间：2015-05-09 04:15:01.324898
+
+本次运行时间：2015-05-09 04:45:01.980354
+
+系统无更新2015-05-09 04:45:03.627033
+
+本次运行时间：2015-05-09 05:15:01.994605
+
+系统无更新2015-05-09 05:15:03.738048
+
+本次运行时间：2015-05-09 05:45:02.109059
+
+系统无更新2015-05-09 05:48:22.048307
+
+本次运行时间：2015-05-09 06:15:01.435621
+
+系统无更新2015-05-09 06:15:03.444174
+
+本次运行时间：2015-05-09 06:45:01.620893
+
+系统无更新2015-05-09 06:45:03.463951
+
+本次运行时间：2015-05-09 07:15:01.788567
+
+系统无更新2015-05-09 07:15:03.546152
+
+本次运行时间：2015-05-09 07:45:01.934525
+
+系统无更新2015-05-09 07:45:03.660306
+
+本次运行时间：2015-05-09 08:15:02.036872
+
+系统无更新2015-05-09 08:15:03.849525
+
+本次运行时间：2015-05-09 08:45:01.231836
+
+系统无更新2015-05-09 08:45:02.923032
+
+本次运行时间：2015-05-09 09:15:01.287084
+
+系统无更新2015-05-09 09:15:02.994969
+
+本次运行时间：2015-05-09 09:45:01.377739
+
+系统无更新2015-05-09 09:45:03.521342
+
+本次运行时间：2015-05-09 10:15:01.887666
+
+系统无更新2015-05-09 10:15:04.160124
+
+本次运行时间：2015-05-09 10:45:01.527767
+
+系统无更新2015-05-09 10:45:03.416975
+
+本次运行时间：2015-05-09 11:15:01.785042
+
+系统无更新2015-05-09 11:15:03.908578
+
+本次运行时间：2015-05-09 11:45:01.594777
+
+系统无更新2015-05-09 11:45:04.381160
+
+本次运行时间：2015-05-09 12:15:01.736540
+
+系统无更新2015-05-09 12:15:04.516685
+
+本次运行时间：2015-05-09 12:45:01.881490
+
+系统无更新2015-05-09 12:45:04.277769
+
+本次运行时间：2015-05-09 13:15:01.637203
+
+系统无更新2015-05-09 13:15:03.821981
+
+本次运行时间：2015-05-09 13:45:01.184854
+
+系统无更新2015-05-09 13:45:10.699880
+
+本次运行时间：2015-05-09 14:15:02.067039
+
+系统无更新2015-05-09 14:15:04.549343
+
+本次运行时间：2015-05-09 14:45:01.920549
+
+系统无更新2015-05-09 14:45:03.665055
+
+本次运行时间：2015-05-09 15:15:02.042093
+
+系统无更新2015-05-09 15:15:04.962208
+
+本次运行时间：2015-05-09 15:45:01.337137
+
+系统无更新2015-05-09 15:45:03.027343
+
+本次运行时间：2015-05-09 16:15:01.400613
+
+系统无更新2015-05-09 16:15:05.964231
+
+本次运行时间：2015-05-09 16:45:01.329981
+
+系统无更新2015-05-09 16:45:05.116218
+
+本次运行时间：2015-05-09 17:15:01.480627
+
+系统无更新2015-05-09 17:15:03.833733
+
+本次运行时间：2015-05-09 17:45:01.200321
+
+系统无更新2015-05-09 17:45:03.852841
+
+本次运行时间：2015-05-09 18:15:01.218257
+
+系统无更新2015-05-09 18:15:02.940935
+
+本次运行时间：2015-05-09 18:45:01.306843
+
+系统无更新2015-05-09 18:45:09.758637
+
+本次运行时间：2015-05-09 19:15:02.126702
+
+系统无更新2015-05-09 19:15:06.511238
+
+本次运行时间：2015-05-09 19:45:01.882791
+
+系统无更新2015-05-09 19:47:18.669229
+
+本次运行时间：2015-05-09 20:15:02.034786
+
+系统无更新2015-05-09 20:15:06.856784
+
+本次运行时间：2015-05-09 20:45:01.235965
+
+系统无更新2015-05-09 20:45:04.711259
+
+本次运行时间：2015-05-09 21:15:02.073245
+
+系统无更新2015-05-09 21:15:03.803149
+
+本次运行时间：2015-05-09 21:45:01.176183
+
+系统无更新2015-05-09 21:45:04.448535
+
+本次运行时间：2015-05-09 22:15:01.816453
+
+系统无更新2015-05-09 22:15:04.391350
+
+本次运行时间：2015-05-09 22:45:01.769128
+
+系统无更新2015-05-09 22:45:05.519715
+
+本次运行时间：2015-05-09 23:15:01.898460
+
+系统无更新2015-05-09 23:15:03.643649
+
+本次运行时间：2015-05-09 23:45:02.022344
+
+系统无更新2015-05-09 23:45:06.108523
+
+本次运行时间：2015-05-10 00:15:01.477180
+
+本次运行时间：2015-05-10 00:45:02.100004
+
+系统无更新2015-05-10 00:45:03.969579
+
+本次运行时间：2015-05-10 01:15:01.322811
+
+系统无更新2015-05-10 01:15:04.223968
+
+本次运行时间：2015-05-10 01:45:01.643593
+
+本次运行时间：2015-05-10 02:15:01.862510
+
+系统无更新2015-05-10 02:15:04.141393
+
+本次运行时间：2015-05-10 02:45:01.510105
+
+系统无更新2015-05-10 02:45:03.192875
+
+本次运行时间：2015-05-10 03:15:01.568993
+
+系统无更新2015-05-10 03:15:03.318849
+
+本次运行时间：2015-05-10 03:45:01.697338
+
+系统无更新2015-05-10 03:45:04.241515
+
+本次运行时间：2015-05-10 04:15:01.614357
+
+系统无更新2015-05-10 04:15:03.303396
+
+本次运行时间：2015-05-10 04:45:01.675816
+
+系统无更新2015-05-10 04:45:03.409958
+
+本次运行时间：2015-05-10 05:15:01.772461
+
+本次运行时间：2015-05-10 05:45:01.330672
+
+系统无更新2015-05-10 05:45:03.021664
+
+本次运行时间：2015-05-10 06:15:01.388817
+
+系统无更新2015-05-10 06:15:04.098724
+
+本次运行时间：2015-05-10 06:45:01.586625
+
+系统无更新2015-05-10 06:45:03.478685
+
+本次运行时间：2015-05-10 07:15:03.094192
+
+本次运行时间：2015-05-10 07:45:01.681850
+
+系统无更新2015-05-10 07:45:03.533710
+
+本次运行时间：2015-05-10 08:15:01.903385
+
+系统无更新2015-05-10 08:15:03.713951
+
+本次运行时间：2015-05-10 08:45:02.075500
+
+系统无更新2015-05-10 08:45:06.750407
+
+本次运行时间：2015-05-10 09:15:02.113639
+
+系统无更新2015-05-10 09:15:05.334691
+
+本次运行时间：2015-05-10 09:45:01.720503
+
+系统无更新2015-05-10 09:45:03.451297
+
+本次运行时间：2015-05-10 10:15:01.816386
+
+系统无更新2015-05-10 10:15:04.197897
+
+本次运行时间：2015-05-10 10:45:01.575988
+
+系统无更新2015-05-10 10:45:04.492381
+
+本次运行时间：2015-05-10 11:15:01.862132
+
+系统无更新2015-05-10 11:15:04.095624
+
+本次运行时间：2015-05-10 11:45:01.469675
+
+系统无更新2015-05-10 11:45:05.526359
+
+本次运行时间：2015-05-10 12:15:01.883092
+
+本次运行时间：2015-05-10 12:45:02.126390
+
+系统无更新2015-05-10 12:45:06.849793
+
+本次运行时间：2015-05-10 13:15:01.214233
+
+系统无更新2015-05-10 13:15:03.787934
+
+本次运行时间：2015-05-10 13:45:01.158401
+
+系统无更新2015-05-10 13:45:17.212442
+
+本次运行时间：2015-05-10 14:15:01.575013
+
+系统无更新2015-05-10 14:15:04.375605
+
+本次运行时间：2015-05-10 14:45:01.760668
+
+系统无更新2015-05-10 14:45:04.000351
+
+本次运行时间：2015-05-10 15:15:01.385789
+
+系统无更新2015-05-10 15:15:06.475346
+
+本次运行时间：2015-05-10 15:45:01.847477
+
+本次运行时间：2015-05-10 16:15:02.072047
+
+系统无更新2015-05-10 16:15:04.145382
+
+本次运行时间：2015-05-10 16:45:01.516053
+
+系统无更新2015-05-10 16:45:04.398860
+
+本次运行时间：2015-05-10 17:15:01.766863
+
+系统无更新2015-05-10 17:15:04.482730
+
+本次运行时间：2015-05-10 17:45:01.860046
+
+系统无更新2015-05-10 17:45:03.985259
+
+本次运行时间：2015-05-10 18:15:01.356657
+
+系统无更新2015-05-10 18:15:05.434996
+
+本次运行时间：2015-05-10 18:45:01.805221
+
+本次运行时间：2015-05-10 19:15:02.039292
+
+系统无更新2015-05-10 19:15:06.133245
+
+本次运行时间：2015-05-10 19:45:01.511226
+
+系统无更新2015-05-10 19:45:03.579711
+
+本次运行时间：2015-05-10 20:15:01.949642
+
+系统无更新2015-05-10 20:15:12.125350
+
+本次运行时间：2015-05-10 20:45:01.505019
+
+系统无更新2015-05-10 20:45:05.473901
+
+本次运行时间：2015-05-10 21:15:01.847344
+
+系统无更新2015-05-10 21:15:06.023579
+
+本次运行时间：2015-05-10 21:45:01.403260
+
+系统无更新2015-05-10 21:45:04.838423
+
+本次运行时间：2015-05-10 22:15:01.220202
+
+系统无更新2015-05-10 22:15:06.607779
+
+本次运行时间：2015-05-10 22:45:02.000828
+
+系统无更新2015-05-10 22:45:04.399563
+
+本次运行时间：2015-05-10 23:15:01.809802
+
+系统无更新2015-05-10 23:15:03.389560
+
+本次运行时间：2015-05-10 23:45:01.764063
+
+系统无更新2015-05-10 23:45:03.584619
+
+本次运行时间：2015-05-11 00:15:01.965053
+
+系统无更新2015-05-11 00:15:04.276907
+
+本次运行时间：2015-05-11 00:45:01.659728
+
+系统无更新2015-05-11 00:45:04.313963
+
+本次运行时间：2015-05-11 01:15:01.675460
+
+系统无更新2015-05-11 01:15:03.283840
+
+本次运行时间：2015-05-11 01:45:01.664485
+
+本次运行时间：2015-05-11 02:15:01.913198
+
+系统无更新2015-05-11 02:15:03.800435
+
+本次运行时间：2015-05-11 02:45:01.172512
+
+本次运行时间：2015-05-11 03:15:01.407006
+
+系统无更新2015-05-11 03:15:03.169636
+
+本次运行时间：2015-05-11 03:45:01.554696
+
+系统无更新2015-05-11 03:45:03.174459
+
+本次运行时间：2015-05-11 04:15:01.545581
+
+本次运行时间：2015-05-11 04:45:01.780512
+
+系统无更新2015-05-11 04:46:56.872087
+
+本次运行时间：2015-05-11 05:15:01.241172
+
+系统无更新2015-05-11 05:15:02.962294
+
+本次运行时间：2015-05-11 05:45:01.339466
+
+系统无更新2015-05-11 05:45:03.143407
+
+本次运行时间：2015-05-11 06:15:01.512414
+
+本次运行时间：2015-05-11 06:45:01.766992
+
+系统无更新2015-05-11 06:45:03.480489
+
+本次运行时间：2015-05-11 07:15:01.844975
+
+系统无更新2015-05-11 07:17:27.864945
+
+本次运行时间：2015-05-11 07:45:01.254744
+
+系统无更新2015-05-11 07:47:16.942470
+
+本次运行时间：2015-05-11 08:15:01.327784
+
+系统无更新2015-05-11 08:15:03.002177
+
+本次运行时间：2015-05-11 08:45:01.387145
+
+本次运行时间：2015-05-11 09:15:01.658158
+
+系统无更新2015-05-11 09:15:03.634040
+
+本次运行时间：2015-05-11 09:45:02.020025
+
+本次运行时间：2015-05-11 10:15:01.553276
+
+系统无更新2015-05-11 10:15:03.406355
+
+本次运行时间：2015-05-11 10:45:01.805519
+
+系统无更新2015-05-11 10:45:04.770922
+
+本次运行时间：2015-05-11 11:15:01.154158
+
+系统无更新2015-05-11 11:15:03.584828
+
+本次运行时间：2015-05-11 11:45:01.969853
+
+系统无更新2015-05-11 11:45:03.702069
+
+本次运行时间：2015-05-11 12:15:02.082520
+
+系统无更新2015-05-11 12:15:05.016192
+
+本次运行时间：2015-05-11 12:45:01.417978
+
+系统无更新2015-05-11 12:45:03.511690
+
+本次运行时间：2015-05-11 13:15:01.896910
+
+系统无更新2015-05-11 13:15:04.441711
+
+本次运行时间：2015-05-11 13:45:01.834966
+
+系统无更新2015-05-11 13:45:04.293945
+
+本次运行时间：2015-05-11 14:15:01.679788
+
+系统无更新2015-05-11 14:15:03.999878
+
+本次运行时间：2015-05-11 14:45:01.383757
+
+系统更新完毕更新内容：[FIX] stock: keep inventory options consistent
+Make sure that appropriate fields are emptied when switching to in between inventory filters.
+This prevents incoherent results due to hidden fields which were filled in a previous selection.
+
+opw-634388
+Fixes #65122015-05-11 14:46:38.750061
+
+本次运行时间：2015-05-11 15:15:03.185535
+
+系统无更新2015-05-11 15:15:47.623574
+
+本次运行时间：2015-05-11 15:45:02.057896
+
+系统无更新2015-05-11 15:45:17.765703
+
+本次运行时间：2015-05-11 16:15:01.149261
+
+系统无更新2015-05-11 16:15:03.307739
+
+本次运行时间：2015-05-11 16:45:01.697204
+
+系统更新完毕更新内容：[FIX] calendar: set context if none
+
+Avoid traceback if no context in get_recurrent_date_by_event when code do:
+    context.get('xx')2015-05-11 16:48:14.157481
+
+本次运行时间：2015-05-11 17:15:02.866022
+
+本次运行时间：2015-05-11 17:45:01.490483
+
+本次运行时间：2015-05-11 18:15:01.882369
+
+系统无更新2015-05-11 18:15:04.001451
+
+本次运行时间：2015-05-11 18:45:01.392424
+
+系统更新完毕更新内容：[FIX] http: make sure to instantiate an environment before calling method
+
+This fixes an issue in property `field.digits` that cannot find a valid cursor
+to the database.  Forcing the instantiation of an environment makes the cursor
+retrievable.2015-05-11 18:46:31.818752
+
+本次运行时间：2015-05-11 19:15:03.279397
+
+系统无更新2015-05-11 19:18:14.940949
+
+本次运行时间：2015-05-11 19:45:01.333179
+
+系统更新完毕更新内容：[FIX] stock_dropshipping: not enough stock warning for MTOs
+
+When 'stock_dropshipping' was installed, in a sale order,
+choosing a product being stockable + buy + MTOs returned
+the "Not Enough Stock" warning, while it shouldn't.
+
+It's because the according method `_check_rounting` was
+overriden in this module, with a @api.one, which aggregates, while
+the method expects to return a simple boolean even for a list of
+multiple ids.
+Converting the method to @api.multi solves the issue.
+
+opw-6394262015-05-11 19:46:57.960984
+
+本次运行时间：2015-05-11 20:15:02.898193
+
+系统更新完毕更新内容：[FIX] point_of_sale: bad indentation2015-05-11 20:18:46.905595
+
+本次运行时间：2015-05-11 20:45:03.008410
+
+系统更新完毕更新内容：[FIX] website_sale: Coupon Code
+
+The pricelist linked to the coupon code is just applied in the cart.
+In the shop, the pricelist of the user is applied.
+
+opw:6346392015-05-11 20:47:09.764434
+
+本次运行时间：2015-05-11 21:15:02.847404
+
+系统无更新2015-05-11 21:15:43.541485
+
+本次运行时间：2015-05-11 21:45:01.994309
+
+系统无更新2015-05-11 21:45:04.281327
+
+本次运行时间：2015-05-11 22:15:01.662302
+
+系统更新完毕更新内容：[FIX] mrp_repair: add calculation of taxes in subtotal, reset taxes after invoice creation
+The calculation of the taxes is added in the calculation of the subtotal.
+When the invoice is created, a reset of the taxes is performed so the user does not have to do
+it himself.
+opw-6347112015-05-11 22:26:27.083656
+
+本次运行时间：2015-05-11 22:45:02.580761
+
+系统更新完毕更新内容：[FIX] Cursor.closed property
+
+`_obj` doesn't exists anymore when the cursor is effectively closed.2015-05-11 22:46:19.578742
+
+本次运行时间：2015-05-11 23:15:02.748704
+
+系统无更新2015-05-11 23:16:01.387642
+
+本次运行时间：2015-05-11 23:45:02.029245
+
+系统无更新2015-05-11 23:45:04.378392
+
+本次运行时间：2015-05-12 00:15:01.768874
+
+系统无更新2015-05-12 00:15:03.836799
+
+本次运行时间：2015-05-12 00:45:01.224742
+
+系统无更新2015-05-12 00:45:03.203333
+
+本次运行时间：2015-05-12 01:15:01.589292
+
+系统更新完毕更新内容：[FIX] ir.logging: cursor should be in auto-commit2015-05-12 01:19:52.654371
+
+本次运行时间：2015-05-12 01:45:02.732120
+
+系统无更新2015-05-12 01:45:04.430560
+
+本次运行时间：2015-05-12 02:15:01.978310
+
+系统无更新2015-05-12 02:15:03.975431
+
+本次运行时间：2015-05-12 02:45:01.560448
+
+系统无更新2015-05-12 02:45:03.154547
+
+本次运行时间：2015-05-12 03:15:01.539650
+
+系统无更新2015-05-12 03:15:03.321177
+
+本次运行时间：2015-05-12 03:45:01.706222
+
+系统无更新2015-05-12 03:45:04.269585
+
+本次运行时间：2015-05-12 04:15:01.656181
+
+系统无更新2015-05-12 04:15:03.304368
+
+本次运行时间：2015-05-12 04:45:01.690486
+
+系统无更新2015-05-12 04:45:03.702711
+
+本次运行时间：2015-05-12 05:15:02.082358
+
+系统无更新2015-05-12 05:15:03.727431
+
+本次运行时间：2015-05-12 05:45:02.106090
+
+系统无更新2015-05-12 05:45:03.994429
+
+本次运行时间：2015-05-12 06:15:01.366069
+
+系统无更新2015-05-12 06:15:02.952654
+
+本次运行时间：2015-05-12 06:45:02.253291
+
+系统无更新2015-05-12 06:45:04.133939
+
+本次运行时间：2015-05-12 07:15:01.512711
+
+系统无更新2015-05-12 07:15:03.134420
+
+本次运行时间：2015-05-12 07:45:01.528294
+
+系统无更新2015-05-12 07:45:40.185898
+
+本次运行时间：2015-05-12 08:15:01.572954
+
+系统无更新2015-05-12 08:15:03.452307
+
+本次运行时间：2015-05-12 08:45:01.836554
+
+系统无更新2015-05-12 08:45:03.485071
+
+本次运行时间：2015-05-12 09:15:01.877249
+
+系统无更新2015-05-12 09:15:03.926489
+
+本次运行时间：2015-05-12 09:45:01.317528
+
+系统无更新2015-05-12 09:45:36.206063
+
+本次运行时间：2015-05-12 10:15:01.588935
+
+系统无更新2015-05-12 10:15:03.265798
+
+本次运行时间：2015-05-12 10:45:01.659346
+
+本次运行时间：2015-05-12 11:15:02.087657
